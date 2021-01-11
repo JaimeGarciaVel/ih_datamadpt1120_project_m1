@@ -134,5 +134,3 @@ dmypy.json
 # PyCharm
 .idea
 
-#Carpeta credentials
-data/credentials/credentials.py
