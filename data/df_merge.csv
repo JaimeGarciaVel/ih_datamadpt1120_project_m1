@@ -1,0 +1,2409 @@
+,Country,Job Title,Rural,Quantity,Percentage
+0,AT,Data Keyer,Urban,1,0.02
+1,AT,Data Coordinator,Rural,2,0.04
+2,AT,Database Marketing Analyst,Rural,1,0.02
+3,AT,Database Security Administrator,Rural,1,0.02
+4,AT,Database Security Administrator,Urban,2,0.04
+5,AT,Clinical Data Specialist,Rural,1,0.02
+6,AT,Data Administrator,Rural,1,0.02
+7,AT,Database Engineer,Rural,2,0.04
+8,AT,"Naval Tactical Data System--Combat Information Center Watch Officer, General",Rural,1,0.02
+9,AT,"Naval Tactical Data System--Combat Information Center Watch Officer, General",Urban,1,0.02
+10,AT,Database Administration Manager,Urban,1,0.02
+11,AT,Data Management Associate,Urban,1,0.02
+12,AT,Maintenance Data Analyst,Urban,1,0.02
+13,AT,Data Entry Specialist,Rural,1,0.02
+14,AT,Database Software Technician,Rural,2,0.04
+15,AT,Crime Data Specialist,Urban,1,0.02
+16,AT,Data Warehousing Engineer,Rural,1,0.02
+17,AT,Data Warehousing Engineer,Urban,4,0.07
+18,AT,Geographic Information Systems Data Specialist (GIS Data Specialist),Urban,1,0.02
+19,AT,Database Development and Administration Project Manager,Rural,1,0.02
+20,AT,Field Artillery Automated Tactical Data System Specialist,Urban,1,0.02
+21,AT,Database Modeler,Urban,1,0.02
+22,AT,Data Coder Operator,Rural,1,0.02
+23,AT,Data Base Design Analyst,Rural,1,0.02
+24,AT,Data Base Design Analyst,Urban,1,0.02
+25,AT,Database Administration Associate,Urban,1,0.02
+26,AT,Geographic Information Systems Data Manager (GIS Data Manager),Rural,1,0.02
+27,AT,Database Design Analyst,Rural,1,0.02
+28,AT,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Rural,1,0.02
+29,AT,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Urban,1,0.02
+30,AT,Data Management Information Technology Specialist,Urban,1,0.02
+31,AT,Data Officer,Urban,2,0.04
+32,AT,Database Coordinator,Urban,1,0.02
+33,AT,Data Systems Manager,Urban,1,0.02
+34,AT,Data Warehouse Developer,Rural,1,0.02
+35,AT,Automatic Data Processing Planner,Rural,1,0.02
+36,AT,Automatic Data Processing Planner,Urban,1,0.02
+37,AT,Data Communications Software Consultant,Rural,1,0.02
+38,AT,Data Communications Software Consultant,Urban,1,0.02
+39,AT,Electronic Data Processing Auditor (EDP Auditor),Urban,1,0.02
+40,AT,Internet Database Specialist,Rural,1,0.02
+41,AT,Data Entry Representative,Urban,1,0.02
+42,AT,Data Security Analyst,Rural,1,0.02
+43,AT,Data Security Analyst,Urban,1,0.02
+44,AT,Geographic Information Systems Data Administrator (GIS Data Administrator),Rural,1,0.02
+45,AT,Database Manager,Urban,1,0.02
+46,AT,Data Processing Systems Project Planner,Urban,1,0.02
+47,AT,Database Architect,Urban,1,0.02
+48,AT,Data Processing Auditor,Rural,3,0.05
+49,AT,GPS Field Data Collector (Global Positioning System Field Data Collector),Rural,1,0.02
+50,AT,Data Warehousing Manager,Urban,1,0.02
+51,AT,Geographic Information Systems Database Administrator (GIS Database Administrator),Rural,1,0.02
+52,AT,Geographic Information Systems Database Administrator (GIS Database Administrator),Urban,3,0.05
+53,AT,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Rural,1,0.02
+54,AT,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Urban,1,0.02
+55,AT,Director of Data Operations,Rural,1,0.02
+56,AT,Database Security Expert,Urban,1,0.02
+57,AT,Databases Computer Consultant,Rural,1,0.02
+58,AT,Database Developer,Urban,1,0.02
+59,AT,Computer or Data Processing Systems Consultant,Rural,1,0.02
+60,AT,Computer or Data Processing Systems Consultant,Urban,2,0.04
+61,BE,Marketing Database Analyst,Urban,1,0.02
+62,BE,Data Coordinator,Urban,1,0.02
+63,BE,Database Marketing Analyst,Rural,1,0.02
+64,BE,Database Marketing Analyst,Urban,1,0.02
+65,BE,Database Security Administrator,Urban,1,0.02
+66,BE,Flight Data Technician,Urban,1,0.02
+67,BE,Database Tester,Urban,2,0.04
+68,BE,Data Administrator,Rural,1,0.02
+69,BE,Data Administrator,Urban,2,0.04
+70,BE,Database Engineer,Rural,1,0.02
+71,BE,Database Engineer,Urban,2,0.04
+72,BE,Data Storage Specialist,Urban,1,0.02
+73,BE,Data Management Associate,Urban,1,0.02
+74,BE,Data Entry Specialist,Rural,1,0.02
+75,BE,Database Software Technician,Rural,1,0.02
+76,BE,Crime Data Specialist,Urban,1,0.02
+77,BE,Data Collector,Urban,1,0.02
+78,BE,Head of Information Systems and Data Processing,Urban,1,0.02
+79,BE,Clinical Data Coordinator,Urban,1,0.02
+80,BE,Geographic Information Systems Data Specialist (GIS Data Specialist),Urban,2,0.04
+81,BE,Database Development and Administration Project Manager,Urban,1,0.02
+82,BE,Data Warehouse Analyst,Urban,1,0.02
+83,BE,Field Artillery Automated Tactical Data System Specialist,Rural,1,0.02
+84,BE,Database Management System Specialist (DBMS Specialist),Rural,1,0.02
+85,BE,Database Management System Specialist (DBMS Specialist),Urban,1,0.02
+86,BE,Data Recovery Planner,Rural,1,0.02
+87,BE,Data Base Design Analyst,Rural,1,0.02
+88,BE,Clinical Data Associate,Rural,3,0.05
+89,BE,Data Capture Specialist,Urban,1,0.02
+90,BE,Database Designer,Urban,2,0.04
+91,BE,Database Administration Associate,Urban,2,0.04
+92,BE,Geographic Information Systems Data Manager (GIS Data Manager),Rural,1,0.02
+93,BE,Geographic Information Systems Data Manager (GIS Data Manager),Urban,2,0.04
+94,BE,Database Design Analyst,Rural,1,0.02
+95,BE,Health Data Analyst,Rural,2,0.04
+96,BE,Health Data Analyst,Urban,1,0.02
+97,BE,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Rural,1,0.02
+98,BE,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Urban,1,0.02
+99,BE,Data Management Information Technology Specialist,Rural,1,0.02
+100,BE,Data Management Information Technology Specialist,Urban,1,0.02
+101,BE,Data Officer,Rural,2,0.04
+102,BE,Data Officer,Urban,2,0.04
+103,BE,Data Warehouse Specialist,Rural,1,0.02
+104,BE,Data Warehouse Specialist,Urban,1,0.02
+105,BE,Medical Data Analyst,Rural,1,0.02
+106,BE,Database Coordinator,Urban,1,0.02
+107,BE,Data Systems Manager,Rural,1,0.02
+108,BE,Data Warehouse Developer,Rural,1,0.02
+109,BE,Automatic Data Processing Planner,Rural,1,0.02
+110,BE,Automatic Data Processing Planner,Urban,1,0.02
+111,BE,Data Processing Consultant,Rural,1,0.02
+112,BE,Data Scientist,Rural,1,0.02
+113,BE,Data Scientist,Urban,3,0.05
+114,BE,Electronic Data Processing Auditor (EDP Auditor),Rural,1,0.02
+115,BE,Data Entry Representative,Rural,1,0.02
+116,BE,Data Security Analyst,Rural,1,0.02
+117,BE,Data Security Analyst,Urban,1,0.02
+118,BE,Automatic Data Processing Planner (ADP Planner),Urban,1,0.02
+119,BE,Database Manager,Rural,1,0.02
+120,BE,Database Manager,Urban,2,0.04
+121,BE,Data Processing Manager,Rural,1,0.02
+122,BE,Data Processing Systems Project Planner,Urban,2,0.04
+123,BE,Database Architect,Urban,1,0.02
+124,BE,Data Communications Analyst,Rural,1,0.02
+125,BE,Oracle Database Administrator (Oracle DBA),Urban,1,0.02
+126,BE,Data Warehousing Manager,Urban,2,0.04
+127,BE,Data Manager,Rural,1,0.02
+128,BE,Data Architect,Rural,1,0.02
+129,BE,Data Architect,Urban,2,0.04
+130,BE,SQL Database Administrator,Urban,1,0.02
+131,BE,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Urban,1,0.02
+132,BE,Director of Data Operations,Rural,1,0.02
+133,BE,Director of Data Operations,Urban,2,0.04
+134,BE,Data Miner,Urban,1,0.02
+135,BE,Database Consultant,Rural,1,0.02
+136,BE,Database Consultant,Urban,1,0.02
+137,BE,Data Processing Systems Analyst,Urban,2,0.04
+138,BE,Data Security Administrator,Rural,1,0.02
+139,BE,Data Security Administrator,Urban,2,0.04
+140,BE,Reference Data Expert,Urban,1,0.02
+141,BE,Data Entry Associate,Urban,1,0.02
+142,BE,Log Data Technician,Rural,1,0.02
+143,BG,Data Reduction Technician,Urban,1,0.02
+144,BG,Database Analyst,Urban,1,0.02
+145,BG,Data Coordinator,Urban,1,0.02
+146,BG,Database Security Administrator,Urban,1,0.02
+147,BG,Database Tester,Rural,1,0.02
+148,BG,Database Tester,Urban,1,0.02
+149,BG,Clinical Data Management Associate Director,Urban,1,0.02
+150,BG,Data Administrator,Urban,2,0.04
+151,BG,Data Storage Specialist,Urban,1,0.02
+152,BG,SCADA Technician (Supervisory Control and Data Acquisition Technician),Urban,1,0.02
+153,BG,Database Administration Manager,Urban,1,0.02
+154,BG,Data Management Associate,Urban,1,0.02
+155,BG,Data Modeling Specialist,Urban,1,0.02
+156,BG,Database Software Technician,Urban,2,0.04
+157,BG,Head of Information Systems and Data Processing,Urban,3,0.05
+158,BG,Data Warehousing Engineer,Urban,1,0.02
+159,BG,Data Warehousing Specialist,Urban,2,0.04
+160,BG,Geographic Information Systems Data Specialist (GIS Data Specialist),Urban,4,0.07
+161,BG,Data Recovery Planner,Urban,1,0.02
+162,BG,Data Abstractor,Urban,1,0.02
+163,BG,Database Modeler,Urban,2,0.04
+164,BG,Survey Data Technician,Urban,1,0.02
+165,BG,Data Base Design Analyst,Urban,1,0.02
+166,BG,Database Designer,Urban,2,0.04
+167,BG,Database Administration Associate,Urban,2,0.04
+168,BG,Geographic Information Systems Data Manager (GIS Data Manager),Rural,1,0.02
+169,BG,Database Design Analyst,Urban,1,0.02
+170,BG,Data Management Information Technology Specialist,Rural,1,0.02
+171,BG,Data Officer,Urban,1,0.02
+172,BG,Data Warehouse Architect,Urban,3,0.05
+173,BG,Data Warehouse Specialist,Urban,5,0.09
+174,BG,Data Control Assistant,Urban,1,0.02
+175,BG,Database Coordinator,Urban,1,0.02
+176,BG,Data Systems Manager,Urban,1,0.02
+177,BG,Data Warehouse Developer,Urban,2,0.04
+178,BG,Automatic Data Processing Planner,Urban,1,0.02
+179,BG,Data Operations Director,Urban,1,0.02
+180,BG,Electronic Data Processing Auditor (EDP Auditor),Urban,1,0.02
+181,BG,Internet Database Specialist,Urban,4,0.07
+182,BG,Data Security Analyst,Urban,1,0.02
+183,BG,Geographic Information Systems Data Administrator (GIS Data Administrator),Urban,1,0.02
+184,BG,"Engineer, System Electronic Data Processing (Engineer, System EDP)",Urban,3,0.05
+185,BG,Automatic Data Processing Planner (ADP Planner),Urban,1,0.02
+186,BG,Data Compiler,Urban,1,0.02
+187,BG,Data Processing Manager,Urban,3,0.05
+188,BG,Database Development Project Manager,Urban,1,0.02
+189,BG,Data Center Manager,Urban,1,0.02
+190,BG,Business Database Analyst,Urban,1,0.02
+191,BG,Database Architect,Urban,1,0.02
+192,BG,Data Center Operator,Urban,1,0.02
+193,BG,Data Processing Auditor,Rural,1,0.02
+194,BG,Data Processing Auditor,Urban,1,0.02
+195,BG,Data Communications Analyst,Urban,1,0.02
+196,BG,Data Architect,Urban,2,0.04
+197,BG,Geographic Information Systems Database Administrator (GIS Database Administrator),Urban,2,0.04
+198,BG,SQL Database Administrator,Urban,2,0.04
+199,BG,Director of Data Operations,Urban,1,0.02
+200,BG,Data Miner,Urban,2,0.04
+201,BG,Database Consultant,Urban,1,0.02
+202,BG,Database Security Expert,Urban,1,0.02
+203,BG,Data Processing Systems Analyst,Urban,2,0.04
+204,BG,Data Security Administrator,Urban,1,0.02
+205,BG,"Naval Tactical Data System--Combat Information Center Watch Officer, Carrier Controlled Approach Controller",Rural,1,0.02
+206,BG,"Naval Tactical Data System--Combat Information Center Watch Officer, Carrier Controlled Approach Controller",Urban,1,0.02
+207,BG,Clinical Data Manager,Urban,1,0.02
+208,BG,Computer or Data Processing Systems Consultant,Urban,1,0.02
+209,CY,Database Administrator (DBA),Urban,1,0.02
+210,CY,Data Management Associate,Urban,1,0.02
+211,CY,Data Modeling Specialist,Urban,1,0.02
+212,CY,Head of Information Systems and Data Processing,Urban,1,0.02
+213,CY,Data Warehousing Specialist,Urban,1,0.02
+214,CY,Clinical Trials Data Coordinator,Urban,1,0.02
+215,CY,Data Systems Manager,Urban,1,0.02
+216,CY,Data Communications Analyst,Urban,1,0.02
+217,CZ,Data Processing Equipment Repairer,Urban,1,0.02
+218,CZ,Data Keyer,Urban,1,0.02
+219,CZ,Marketing Database Analyst,Urban,1,0.02
+220,CZ,Data Coordinator,Urban,1,0.02
+221,CZ,Database Marketing Analyst,Urban,1,0.02
+222,CZ,Naval Tactical Data System--Combat Information Center Officer,Rural,1,0.02
+223,CZ,Database Security Administrator,Rural,1,0.02
+224,CZ,Database Security Administrator,Urban,2,0.04
+225,CZ,Database Administrator (DBA),Rural,1,0.02
+226,CZ,Database Tester,Urban,2,0.04
+227,CZ,Data Administrator,Urban,2,0.04
+228,CZ,Data Processing Auxiliary Equipment Operator,Urban,1,0.02
+229,CZ,Database Engineer,Rural,1,0.02
+230,CZ,Database Engineer,Urban,2,0.04
+231,CZ,"Naval Tactical Data System--Combat Information Center Watch Officer, General",Urban,1,0.02
+232,CZ,Data Storage Specialist,Rural,2,0.04
+233,CZ,Data Storage Specialist,Urban,1,0.02
+234,CZ,SCADA Technician (Supervisory Control and Data Acquisition Technician),Urban,1,0.02
+235,CZ,Data Management Associate,Rural,1,0.02
+236,CZ,Data Modeling Specialist,Urban,2,0.04
+237,CZ,Maintenance Data Analyst,Urban,1,0.02
+238,CZ,Data Entry Specialist,Urban,1,0.02
+239,CZ,Database Software Technician,Rural,1,0.02
+240,CZ,Database Software Technician,Urban,2,0.04
+241,CZ,Head of Information Systems and Data Processing,Urban,3,0.05
+242,CZ,Clinical Data Coordinator,Urban,1,0.02
+243,CZ,Data Warehousing Engineer,Urban,1,0.02
+244,CZ,Data Warehousing Specialist,Urban,1,0.02
+245,CZ,Geographic Information Systems Data Specialist (GIS Data Specialist),Urban,2,0.04
+246,CZ,Database Development and Administration Project Manager,Rural,1,0.02
+247,CZ,Data Warehouse Analyst,Urban,2,0.04
+248,CZ,Database Management System Specialist (DBMS Specialist),Urban,1,0.02
+249,CZ,Data Collection Technician,Rural,1,0.02
+250,CZ,Flight Test Data Acquisition Technician,Rural,1,0.02
+251,CZ,Database Designer,Urban,1,0.02
+252,CZ,Data Processing Mechanic,Rural,1,0.02
+253,CZ,Database Administration Associate,Urban,1,0.02
+254,CZ,Data Entry Machine Operator,Rural,1,0.02
+255,CZ,Geographic Information Systems Data Manager (GIS Data Manager),Urban,1,0.02
+256,CZ,Database Specialist,Urban,1,0.02
+257,CZ,Health Data Analyst,Urban,1,0.02
+258,CZ,Databases Software Consultant,Rural,1,0.02
+259,CZ,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Rural,1,0.02
+260,CZ,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Urban,2,0.04
+261,CZ,Data Management Information Technology Specialist,Urban,1,0.02
+262,CZ,Data Officer,Urban,4,0.07
+263,CZ,Data Warehouse Architect,Rural,1,0.02
+264,CZ,Data Warehouse Architect,Urban,1,0.02
+265,CZ,Data Control Assistant,Urban,1,0.02
+266,CZ,Data Acquisition Technician,Rural,1,0.02
+267,CZ,Database Coordinator,Urban,2,0.04
+268,CZ,Data Systems Manager,Rural,1,0.02
+269,CZ,Data Warehouse Developer,Urban,1,0.02
+270,CZ,Automatic Data Processing Planner,Urban,2,0.04
+271,CZ,Data Communications Software Consultant,Urban,1,0.02
+272,CZ,Data Scientist,Rural,1,0.02
+273,CZ,Data Operations Director,Rural,1,0.02
+274,CZ,Data Operations Director,Urban,2,0.04
+275,CZ,Electronic Data Processing Auditor (EDP Auditor),Urban,1,0.02
+276,CZ,Internet Database Specialist,Urban,4,0.07
+277,CZ,Data Security Analyst,Urban,2,0.04
+278,CZ,Geographic Information Systems Data Administrator (GIS Data Administrator),Urban,1,0.02
+279,CZ,"Engineer, System Electronic Data Processing (Engineer, System EDP)",Urban,1,0.02
+280,CZ,Automatic Data Processing Planner (ADP Planner),Urban,1,0.02
+281,CZ,Data Processing Manager,Urban,1,0.02
+282,CZ,Micro Computer Data Processor,Urban,1,0.02
+283,CZ,Database Development Project Manager,Rural,1,0.02
+284,CZ,Data Processing Systems Project Planner,Rural,2,0.04
+285,CZ,Data Technician,Urban,1,0.02
+286,CZ,Database Architect,Rural,1,0.02
+287,CZ,Database Architect,Urban,1,0.02
+288,CZ,Data Center Operator,Urban,1,0.02
+289,CZ,Data Processing Auditor,Urban,1,0.02
+290,CZ,Data Communications Analyst,Urban,1,0.02
+291,CZ,Oracle Database Administrator (Oracle DBA),Rural,1,0.02
+292,CZ,Oracle Database Administrator (Oracle DBA),Urban,2,0.04
+293,CZ,GPS Field Data Collector (Global Positioning System Field Data Collector),Rural,1,0.02
+294,CZ,Data Warehousing Manager,Urban,2,0.04
+295,CZ,Data Sciences Director,Urban,1,0.02
+296,CZ,Data Manager,Urban,1,0.02
+297,CZ,Data Architect,Rural,1,0.02
+298,CZ,Data Architect,Urban,1,0.02
+299,CZ,Geographic Information Systems Database Administrator (GIS Database Administrator),Rural,1,0.02
+300,CZ,Geographic Information Systems Database Administrator (GIS Database Administrator),Urban,1,0.02
+301,CZ,SQL Database Administrator,Urban,1,0.02
+302,CZ,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Rural,2,0.04
+303,CZ,Director of Data Operations,Urban,3,0.05
+304,CZ,Data Miner,Rural,1,0.02
+305,CZ,Database Consultant,Urban,3,0.05
+306,CZ,Database Security Expert,Urban,2,0.04
+307,CZ,Data Processing Systems Analyst,Rural,1,0.02
+308,CZ,Data Processing Systems Analyst,Urban,2,0.04
+309,CZ,Databases Computer Consultant,Urban,2,0.04
+310,CZ,Data Processing Services Sales Representative,Urban,1,0.02
+311,CZ,Computer or Data Processing Systems Consultant,Rural,1,0.02
+312,CZ,Computer or Data Processing Systems Consultant,Urban,2,0.04
+313,DE,Data Reduction Technician,Rural,1,0.02
+314,DE,Data Reduction Technician,Urban,1,0.02
+315,DE,Data Processing Equipment Repairer,Urban,1,0.02
+316,DE,Database Analyst,Rural,2,0.04
+317,DE,Database Analyst,Urban,4,0.07
+318,DE,Data Keyer,Urban,2,0.04
+319,DE,Marketing Database Analyst,Rural,1,0.02
+320,DE,Marketing Database Analyst,Urban,2,0.04
+321,DE,Data Coordinator,Rural,4,0.07
+322,DE,Data Coordinator,Urban,7,0.12
+323,DE,Data Conversion Operator,Rural,2,0.04
+324,DE,Data Conversion Operator,Urban,1,0.02
+325,DE,Database Marketing Analyst,Rural,4,0.07
+326,DE,Database Marketing Analyst,Urban,4,0.07
+327,DE,Naval Tactical Data System--Combat Information Center Officer,Urban,1,0.02
+328,DE,Database Administration Project Manager,Rural,1,0.02
+329,DE,Database Administration Project Manager,Urban,2,0.04
+330,DE,Database Security Administrator,Rural,3,0.05
+331,DE,Database Security Administrator,Urban,2,0.04
+332,DE,Database Administrator (DBA),Rural,4,0.07
+333,DE,Flight Data Technician,Rural,2,0.04
+334,DE,Flight Data Technician,Urban,2,0.04
+335,DE,Database Tester,Rural,4,0.07
+336,DE,Database Tester,Urban,3,0.05
+337,DE,Clinical Data Management Associate Director,Rural,1,0.02
+338,DE,Clinical Data Management Associate Director,Urban,2,0.04
+339,DE,Electronic Data Interchange System Developer (EDI System Developer),Rural,8,0.14
+340,DE,Electronic Data Interchange System Developer (EDI System Developer),Urban,5,0.09
+341,DE,Data Administrator,Rural,6,0.11
+342,DE,Data Administrator,Urban,7,0.12
+343,DE,Data Processing Auxiliary Equipment Operator,Urban,2,0.04
+344,DE,Database Engineer,Rural,5,0.09
+345,DE,Database Engineer,Urban,8,0.14
+346,DE,"Naval Tactical Data System--Combat Information Center Watch Officer, General",Urban,2,0.04
+347,DE,Data Storage Specialist,Rural,7,0.12
+348,DE,Data Storage Specialist,Urban,9,0.16
+349,DE,SCADA Technician (Supervisory Control and Data Acquisition Technician),Rural,1,0.02
+350,DE,Database Administration Manager,Rural,8,0.14
+351,DE,Database Administration Manager,Urban,6,0.11
+352,DE,Data Management Associate,Rural,2,0.04
+353,DE,Data Management Associate,Urban,3,0.05
+354,DE,Data Modeling Specialist,Rural,5,0.09
+355,DE,Data Modeling Specialist,Urban,7,0.12
+356,DE,Maintenance Data Analyst,Rural,1,0.02
+357,DE,Data Processing Control Clerk,Urban,1,0.02
+358,DE,Database Software Technician,Rural,3,0.05
+359,DE,Database Software Technician,Urban,8,0.14
+360,DE,Crime Data Specialist,Rural,1,0.02
+361,DE,Head of Information Systems and Data Processing,Rural,3,0.05
+362,DE,Head of Information Systems and Data Processing,Urban,9,0.16
+363,DE,Data Entry Supervisor,Urban,2,0.04
+364,DE,Clinical Data Coordinator,Rural,2,0.04
+365,DE,Clinical Data Coordinator,Urban,1,0.02
+366,DE,Data Warehousing Engineer,Rural,4,0.07
+367,DE,Data Warehousing Engineer,Urban,3,0.05
+368,DE,Data Warehousing Specialist,Rural,4,0.07
+369,DE,Data Warehousing Specialist,Urban,7,0.12
+370,DE,Geographic Information Systems Data Specialist (GIS Data Specialist),Rural,5,0.09
+371,DE,Geographic Information Systems Data Specialist (GIS Data Specialist),Urban,10,0.18
+372,DE,Database Development and Administration Project Manager,Rural,7,0.12
+373,DE,Database Development and Administration Project Manager,Urban,5,0.09
+374,DE,Data Warehouse Analyst,Rural,2,0.04
+375,DE,Data Warehouse Analyst,Urban,7,0.12
+376,DE,Field Artillery Automated Tactical Data System Specialist,Urban,1,0.02
+377,DE,Data Input Clerk,Rural,1,0.02
+378,DE,Data Input Clerk,Urban,1,0.02
+379,DE,Database Management System Specialist (DBMS Specialist),Rural,4,0.07
+380,DE,Database Management System Specialist (DBMS Specialist),Urban,11,0.19
+381,DE,Data Recovery Planner,Urban,1,0.02
+382,DE,Data Abstractor,Rural,1,0.02
+383,DE,Data Abstractor,Urban,1,0.02
+384,DE,Data Collection Technician,Urban,3,0.05
+385,DE,Database Modeler,Rural,2,0.04
+386,DE,Database Modeler,Urban,9,0.16
+387,DE,Survey Data Technician,Rural,1,0.02
+388,DE,Data Coder Operator,Rural,1,0.02
+389,DE,Data Base Design Analyst,Rural,4,0.07
+390,DE,Data Base Design Analyst,Urban,6,0.11
+391,DE,Flight Test Data Acquisition Technician,Rural,1,0.02
+392,DE,Flight Test Data Acquisition Technician,Urban,1,0.02
+393,DE,Clinical Data Associate,Urban,1,0.02
+394,DE,Database Designer,Rural,2,0.04
+395,DE,Database Designer,Urban,3,0.05
+396,DE,Data Management Manager,Rural,1,0.02
+397,DE,Database Administration Associate,Rural,3,0.05
+398,DE,Database Administration Associate,Urban,6,0.11
+399,DE,Data Entry Machine Operator,Urban,1,0.02
+400,DE,Geographic Information Systems Data Manager (GIS Data Manager),Rural,2,0.04
+401,DE,Geographic Information Systems Data Manager (GIS Data Manager),Urban,8,0.14
+402,DE,Database Design Analyst,Urban,4,0.07
+403,DE,LiDAR Data Analyst,Urban,1,0.02
+404,DE,Database Specialist,Rural,5,0.09
+405,DE,Database Specialist,Urban,6,0.11
+406,DE,Data Entry Technician,Rural,1,0.02
+407,DE,Data Entry Technician,Urban,2,0.04
+408,DE,Health Data Analyst,Urban,1,0.02
+409,DE,Clinical Data Management Manager (CDM Manager),Urban,1,0.02
+410,DE,Databases Software Consultant,Rural,4,0.07
+411,DE,Databases Software Consultant,Urban,2,0.04
+412,DE,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Rural,6,0.11
+413,DE,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Urban,3,0.05
+414,DE,Data Management Information Technology Specialist,Rural,3,0.05
+415,DE,Data Management Information Technology Specialist,Urban,8,0.14
+416,DE,Data Officer,Rural,5,0.09
+417,DE,Data Officer,Urban,13,0.23
+418,DE,Data Typist,Urban,2,0.04
+419,DE,Data Warehouse Architect,Rural,4,0.07
+420,DE,Data Warehouse Architect,Urban,8,0.14
+421,DE,Data Warehouse Specialist,Rural,2,0.04
+422,DE,Data Warehouse Specialist,Urban,10,0.18
+423,DE,Medical Data Analyst,Rural,1,0.02
+424,DE,Medical Data Analyst,Urban,1,0.02
+425,DE,Clinical Trials Data Coordinator,Urban,1,0.02
+426,DE,Database Coordinator,Rural,2,0.04
+427,DE,Database Coordinator,Urban,7,0.12
+428,DE,Data Systems Manager,Rural,5,0.09
+429,DE,Data Systems Manager,Urban,5,0.09
+430,DE,Data Warehouse Developer,Rural,7,0.12
+431,DE,Data Warehouse Developer,Urban,8,0.14
+432,DE,Automatic Data Processing Planner,Rural,4,0.07
+433,DE,Automatic Data Processing Planner,Urban,5,0.09
+434,DE,Data Processing Consultant,Rural,2,0.04
+435,DE,Data Processing Consultant,Urban,8,0.14
+436,DE,Data Communications Software Consultant,Rural,4,0.07
+437,DE,Data Communications Software Consultant,Urban,6,0.11
+438,DE,Data Scientist,Rural,6,0.11
+439,DE,Data Scientist,Urban,2,0.04
+440,DE,Data Operations Director,Rural,3,0.05
+441,DE,Data Processing Clerk,Rural,1,0.02
+442,DE,Electronic Data Processing Auditor (EDP Auditor),Rural,1,0.02
+443,DE,Electronic Data Processing Auditor (EDP Auditor),Urban,8,0.14
+444,DE,Internet Database Specialist,Rural,2,0.04
+445,DE,Internet Database Specialist,Urban,9,0.16
+446,DE,Data Entry Representative,Urban,2,0.04
+447,DE,Data Security Analyst,Rural,2,0.04
+448,DE,Data Security Analyst,Urban,7,0.12
+449,DE,Geographic Information Systems Data Administrator (GIS Data Administrator),Rural,4,0.07
+450,DE,Geographic Information Systems Data Administrator (GIS Data Administrator),Urban,6,0.11
+451,DE,"Engineer, System Electronic Data Processing (Engineer, System EDP)",Rural,1,0.02
+452,DE,"Engineer, System Electronic Data Processing (Engineer, System EDP)",Urban,10,0.18
+453,DE,Automatic Data Processing Planner (ADP Planner),Rural,6,0.11
+454,DE,Automatic Data Processing Planner (ADP Planner),Urban,7,0.12
+455,DE,Database Manager,Rural,4,0.07
+456,DE,Database Manager,Urban,7,0.12
+457,DE,Database Programmer,Urban,1,0.02
+458,DE,Data Compiler,Rural,2,0.04
+459,DE,Data Processing Manager,Rural,6,0.11
+460,DE,Data Processing Manager,Urban,5,0.09
+461,DE,Micro Computer Data Processor,Rural,1,0.02
+462,DE,Micro Computer Data Processor,Urban,1,0.02
+463,DE,Database Development Project Manager,Urban,1,0.02
+464,DE,Data Specialist,Rural,1,0.02
+465,DE,Data Specialist,Urban,1,0.02
+466,DE,Data Processing Supervisor,Rural,1,0.02
+467,DE,Data Processing Systems Project Planner,Rural,6,0.11
+468,DE,Data Processing Systems Project Planner,Urban,4,0.07
+469,DE,Data Technician,Urban,1,0.02
+470,DE,Data Center Manager,Rural,1,0.02
+471,DE,Data Center Manager,Urban,1,0.02
+472,DE,Data Modeler,Rural,1,0.02
+473,DE,Business Database Analyst,Urban,1,0.02
+474,DE,Datastage Developer,Rural,1,0.02
+475,DE,Datastage Developer,Urban,2,0.04
+476,DE,Database Architect,Rural,4,0.07
+477,DE,Database Architect,Urban,5,0.09
+478,DE,Data Center Operator,Rural,1,0.02
+479,DE,Data Center Operator,Urban,4,0.07
+480,DE,SCADA Operator (Supervisory Control and Data Acquisition Operator),Rural,2,0.04
+481,DE,SCADA Operator (Supervisory Control and Data Acquisition Operator),Urban,1,0.02
+482,DE,Data Processing Auditor,Rural,3,0.05
+483,DE,Data Processing Auditor,Urban,2,0.04
+484,DE,Data Communications Analyst,Rural,8,0.14
+485,DE,Data Communications Analyst,Urban,5,0.09
+486,DE,Oracle Database Administrator (Oracle DBA),Rural,9,0.16
+487,DE,Oracle Database Administrator (Oracle DBA),Urban,9,0.16
+488,DE,GPS Field Data Collector (Global Positioning System Field Data Collector),Rural,1,0.02
+489,DE,GPS Field Data Collector (Global Positioning System Field Data Collector),Urban,3,0.05
+490,DE,Data Warehousing Manager,Rural,3,0.05
+491,DE,Data Warehousing Manager,Urban,5,0.09
+492,DE,Data Sciences Director,Rural,1,0.02
+493,DE,Data Sciences Director,Urban,1,0.02
+494,DE,Data Manager,Rural,1,0.02
+495,DE,Clinical Data Abstractor,Rural,1,0.02
+496,DE,Clinical Data Abstractor,Urban,3,0.05
+497,DE,Data Architect,Rural,5,0.09
+498,DE,Data Architect,Urban,8,0.14
+499,DE,Data Control Clerk Supervisor,Rural,1,0.02
+500,DE,Geographic Information Systems Database Administrator (GIS Database Administrator),Rural,3,0.05
+501,DE,Geographic Information Systems Database Administrator (GIS Database Administrator),Urban,8,0.14
+502,DE,SQL Database Administrator,Urban,5,0.09
+503,DE,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Rural,1,0.02
+504,DE,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Urban,6,0.11
+505,DE,Customer Data Technician,Rural,1,0.02
+506,DE,Customer Data Technician,Urban,1,0.02
+507,DE,Director of Data Operations,Rural,3,0.05
+508,DE,Director of Data Operations,Urban,4,0.07
+509,DE,Data Miner,Rural,7,0.12
+510,DE,Data Miner,Urban,1,0.02
+511,DE,Database Consultant,Rural,1,0.02
+512,DE,Database Consultant,Urban,12,0.21
+513,DE,Database Security Expert,Rural,4,0.07
+514,DE,Database Security Expert,Urban,3,0.05
+515,DE,Data Processing Systems Analyst,Rural,4,0.07
+516,DE,Data Processing Systems Analyst,Urban,4,0.07
+517,DE,Databases Computer Consultant,Rural,3,0.05
+518,DE,Databases Computer Consultant,Urban,5,0.09
+519,DE,Data Security Administrator,Rural,5,0.09
+520,DE,Data Security Administrator,Urban,7,0.12
+521,DE,"Naval Tactical Data System--Combat Information Center Watch Officer, Carrier Controlled Approach Controller",Urban,3,0.05
+522,DE,Data Processor,Rural,2,0.04
+523,DE,Data Processor,Urban,1,0.02
+524,DE,Clinical Data Analyst,Rural,1,0.02
+525,DE,Clinical Data Analyst,Urban,1,0.02
+526,DE,Voice and Data Technician,Rural,2,0.04
+527,DE,Voice and Data Technician,Urban,2,0.04
+528,DE,Database Developer,Urban,2,0.04
+529,DE,Clinical Data Manager,Rural,1,0.02
+530,DE,Data Processing Services Sales Representative,Rural,1,0.02
+531,DE,Data Processing Services Sales Representative,Urban,3,0.05
+532,DE,Log Data Technician,Urban,3,0.05
+533,DE,Field Traffic Data Technician,Urban,2,0.04
+534,DE,Computer or Data Processing Systems Consultant,Rural,5,0.09
+535,DE,Computer or Data Processing Systems Consultant,Urban,7,0.12
+536,DE,Data Transcriber,Rural,3,0.05
+537,DK,Data Keyer,Rural,1,0.02
+538,DK,Data Coordinator,Urban,2,0.04
+539,DK,Database Tester,Urban,2,0.04
+540,DK,Electronic Data Interchange System Developer (EDI System Developer),Urban,2,0.04
+541,DK,Database Engineer,Rural,1,0.02
+542,DK,Data Storage Specialist,Urban,2,0.04
+543,DK,Data Warehousing Specialist,Rural,1,0.02
+544,DK,Database Development and Administration Project Manager,Urban,2,0.04
+545,DK,Data Warehouse Analyst,Rural,1,0.02
+546,DK,Database Management System Specialist (DBMS Specialist),Rural,1,0.02
+547,DK,Database Management System Specialist (DBMS Specialist),Urban,1,0.02
+548,DK,Database Modeler,Urban,1,0.02
+549,DK,Survey Data Technician,Rural,1,0.02
+550,DK,Survey Data Technician,Urban,1,0.02
+551,DK,Data Base Design Analyst,Urban,1,0.02
+552,DK,Database Designer,Urban,1,0.02
+553,DK,Database Administration Associate,Urban,1,0.02
+554,DK,Database Specialist,Urban,3,0.05
+555,DK,Health Data Analyst,Urban,1,0.02
+556,DK,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Rural,1,0.02
+557,DK,Data Management Information Technology Specialist,Urban,1,0.02
+558,DK,Data Officer,Rural,1,0.02
+559,DK,Data Officer,Urban,3,0.05
+560,DK,Data Typist,Urban,1,0.02
+561,DK,Data Warehouse Architect,Rural,1,0.02
+562,DK,Data Warehouse Architect,Urban,1,0.02
+563,DK,Data Warehouse Specialist,Rural,1,0.02
+564,DK,Medical Data Analyst,Urban,1,0.02
+565,DK,Database Coordinator,Rural,1,0.02
+566,DK,Database Coordinator,Urban,1,0.02
+567,DK,Data Systems Manager,Urban,1,0.02
+568,DK,Data Warehouse Developer,Urban,1,0.02
+569,DK,Automatic Data Processing Planner,Rural,1,0.02
+570,DK,Automatic Data Processing Planner,Urban,1,0.02
+571,DK,Data Processing Consultant,Urban,2,0.04
+572,DK,Data Communications Software Consultant,Rural,1,0.02
+573,DK,Data Communications Software Consultant,Urban,3,0.05
+574,DK,Data Scientist,Urban,1,0.02
+575,DK,Data Operations Director,Urban,1,0.02
+576,DK,Electronic Data Processing Auditor (EDP Auditor),Urban,1,0.02
+577,DK,Internet Database Specialist,Rural,1,0.02
+578,DK,Automatic Data Processing Planner (ADP Planner),Urban,2,0.04
+579,DK,Data Processing Manager,Urban,1,0.02
+580,DK,Data Processing Auditor,Urban,1,0.02
+581,DK,Oracle Database Administrator (Oracle DBA),Urban,3,0.05
+582,DK,Data Manager,Urban,1,0.02
+583,DK,Data Architect,Rural,1,0.02
+584,DK,SQL Database Administrator,Urban,1,0.02
+585,DK,Director of Data Operations,Urban,1,0.02
+586,DK,Database Consultant,Urban,1,0.02
+587,DK,Database Security Expert,Rural,1,0.02
+588,DK,Database Security Expert,Urban,1,0.02
+589,DK,Databases Computer Consultant,Urban,1,0.02
+590,DK,Clinical Data Manager,Rural,1,0.02
+591,DK,Field Traffic Data Technician,Urban,1,0.02
+592,DK,Data Transcriber,Urban,1,0.02
+593,EE,Database Administration Manager,Urban,1,0.02
+594,EE,Data Entry Supervisor,Urban,1,0.02
+595,EE,Geographic Information Systems Data Specialist (GIS Data Specialist),Urban,1,0.02
+596,EE,Data Collection Technician,Urban,1,0.02
+597,EE,Data Base Design Analyst,Urban,1,0.02
+598,EE,Data Management Information Technology Specialist,Urban,1,0.02
+599,EE,Data Operations Director,Urban,1,0.02
+600,EE,Database Manager,Urban,1,0.02
+601,EE,Data Processing Supervisor,Urban,1,0.02
+602,EE,Director of Data Operations,Urban,1,0.02
+603,ES,Data Reduction Technician,Urban,4,0.07
+604,ES,Data Processing Equipment Repairer,Rural,1,0.02
+605,ES,Data Processing Equipment Repairer,Urban,3,0.05
+606,ES,Data Keyer,Urban,1,0.02
+607,ES,Marketing Database Analyst,Rural,1,0.02
+608,ES,Data Coordinator,Rural,1,0.02
+609,ES,Data Coordinator,Urban,9,0.16
+610,ES,Data Conversion Operator,Urban,1,0.02
+611,ES,Data Communications Technician,Urban,2,0.04
+612,ES,Database Marketing Analyst,Rural,2,0.04
+613,ES,Database Marketing Analyst,Urban,4,0.07
+614,ES,Naval Tactical Data System--Combat Information Center Officer,Urban,3,0.05
+615,ES,Database Administration Project Manager,Urban,2,0.04
+616,ES,Database Security Administrator,Rural,1,0.02
+617,ES,Database Security Administrator,Urban,7,0.12
+618,ES,Flight Data Technician,Urban,1,0.02
+619,ES,Database Tester,Rural,1,0.02
+620,ES,Database Tester,Urban,2,0.04
+621,ES,Weight in Motion Field Data Collection Technician,Urban,4,0.07
+622,ES,Clinical Data Specialist,Urban,1,0.02
+623,ES,Electronic Data Interchange System Developer (EDI System Developer),Urban,9,0.16
+624,ES,Data Administrator,Urban,2,0.04
+625,ES,"Operations Officer, Afloat (Naval Tactical Data Systems)",Urban,1,0.02
+626,ES,Data Processing Auxiliary Equipment Operator,Urban,2,0.04
+627,ES,Database Engineer,Rural,1,0.02
+628,ES,Database Engineer,Urban,10,0.18
+629,ES,Data Storage Specialist,Rural,1,0.02
+630,ES,Data Storage Specialist,Urban,4,0.07
+631,ES,SCADA Technician (Supervisory Control and Data Acquisition Technician),Urban,1,0.02
+632,ES,Database Administration Manager,Rural,3,0.05
+633,ES,Database Administration Manager,Urban,5,0.09
+634,ES,Data Management Associate,Rural,1,0.02
+635,ES,Data Management Associate,Urban,9,0.16
+636,ES,Data Modeling Specialist,Rural,2,0.04
+637,ES,Data Modeling Specialist,Urban,7,0.12
+638,ES,Maintenance Data Analyst,Urban,1,0.02
+639,ES,Data Entry Specialist,Rural,1,0.02
+640,ES,Database Software Technician,Rural,2,0.04
+641,ES,Database Software Technician,Urban,6,0.11
+642,ES,Crime Data Specialist,Urban,1,0.02
+643,ES,Data Collector,Rural,1,0.02
+644,ES,Head of Information Systems and Data Processing,Rural,2,0.04
+645,ES,Head of Information Systems and Data Processing,Urban,6,0.11
+646,ES,Data Entry Supervisor,Urban,1,0.02
+647,ES,Data Warehousing Engineer,Rural,1,0.02
+648,ES,Data Warehousing Engineer,Urban,4,0.07
+649,ES,Data Warehousing Specialist,Urban,3,0.05
+650,ES,Geographic Information Systems Data Specialist (GIS Data Specialist),Urban,5,0.09
+651,ES,Database Development and Administration Project Manager,Rural,2,0.04
+652,ES,Database Development and Administration Project Manager,Urban,11,0.19
+653,ES,Data Warehouse Analyst,Rural,1,0.02
+654,ES,Data Warehouse Analyst,Urban,7,0.12
+655,ES,Field Artillery Automated Tactical Data System Specialist,Urban,2,0.04
+656,ES,Data Input Clerk,Urban,1,0.02
+657,ES,Database Management System Specialist (DBMS Specialist),Rural,3,0.05
+658,ES,Database Management System Specialist (DBMS Specialist),Urban,10,0.18
+659,ES,Data Recovery Planner,Rural,1,0.02
+660,ES,Data Recovery Planner,Urban,1,0.02
+661,ES,Database Modeler,Rural,1,0.02
+662,ES,Database Modeler,Urban,1,0.02
+663,ES,Survey Data Technician,Urban,1,0.02
+664,ES,Data Base Design Analyst,Urban,6,0.11
+665,ES,Flight Test Data Acquisition Technician,Urban,3,0.05
+666,ES,Clinical Data Associate,Urban,2,0.04
+667,ES,Data Reviewer,Urban,1,0.02
+668,ES,Data Analysis Assistant,Urban,1,0.02
+669,ES,Database Designer,Rural,3,0.05
+670,ES,Database Designer,Urban,2,0.04
+671,ES,Data Processing Mechanic,Urban,1,0.02
+672,ES,Data Management Manager,Urban,1,0.02
+673,ES,Database Administration Associate,Urban,7,0.12
+674,ES,Data Entry Machine Operator,Rural,2,0.04
+675,ES,Data Entry Machine Operator,Urban,1,0.02
+676,ES,Geographic Information Systems Data Manager (GIS Data Manager),Rural,3,0.05
+677,ES,Geographic Information Systems Data Manager (GIS Data Manager),Urban,7,0.12
+678,ES,Database Technician,Urban,1,0.02
+679,ES,Database Design Analyst,Urban,4,0.07
+680,ES,LiDAR Data Analyst,Urban,2,0.04
+681,ES,Database Specialist,Rural,1,0.02
+682,ES,Database Specialist,Urban,4,0.07
+683,ES,Health Data Analyst,Urban,2,0.04
+684,ES,Clinical Data Management Manager (CDM Manager),Rural,1,0.02
+685,ES,Clinical Data Management Manager (CDM Manager),Urban,2,0.04
+686,ES,Databases Software Consultant,Urban,7,0.12
+687,ES,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Rural,2,0.04
+688,ES,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Urban,5,0.09
+689,ES,Data Management Information Technology Specialist,Urban,5,0.09
+690,ES,Data Officer,Urban,2,0.04
+691,ES,Data Typist,Urban,1,0.02
+692,ES,Data Warehouse Architect,Rural,1,0.02
+693,ES,Data Warehouse Architect,Urban,8,0.14
+694,ES,Data Warehouse Specialist,Rural,2,0.04
+695,ES,Data Warehouse Specialist,Urban,7,0.12
+696,ES,Medical Data Analyst,Urban,1,0.02
+697,ES,Database Coordinator,Rural,3,0.05
+698,ES,Database Coordinator,Urban,9,0.16
+699,ES,Data Systems Manager,Rural,1,0.02
+700,ES,Data Systems Manager,Urban,10,0.18
+701,ES,Data Warehouse Developer,Urban,2,0.04
+702,ES,Automatic Data Processing Planner,Rural,1,0.02
+703,ES,Automatic Data Processing Planner,Urban,8,0.14
+704,ES,Data Processing Consultant,Rural,1,0.02
+705,ES,Data Processing Consultant,Urban,5,0.09
+706,ES,Data Communications Software Consultant,Rural,1,0.02
+707,ES,Data Communications Software Consultant,Urban,9,0.16
+708,ES,Data Scientist,Urban,7,0.12
+709,ES,Data Operations Director,Urban,4,0.07
+710,ES,Data Processing Clerk,Rural,1,0.02
+711,ES,Data Processing Clerk,Urban,2,0.04
+712,ES,Electronic Data Processing Auditor (EDP Auditor),Urban,6,0.11
+713,ES,Internet Database Specialist,Rural,2,0.04
+714,ES,Internet Database Specialist,Urban,1,0.02
+715,ES,Data Entry Representative,Urban,1,0.02
+716,ES,Data Security Analyst,Rural,2,0.04
+717,ES,Data Security Analyst,Urban,8,0.14
+718,ES,Geographic Information Systems Data Administrator (GIS Data Administrator),Rural,1,0.02
+719,ES,Geographic Information Systems Data Administrator (GIS Data Administrator),Urban,8,0.14
+720,ES,"Engineer, System Electronic Data Processing (Engineer, System EDP)",Urban,5,0.09
+721,ES,Automatic Data Processing Planner (ADP Planner),Urban,11,0.19
+722,ES,Database Manager,Rural,1,0.02
+723,ES,Database Manager,Urban,8,0.14
+724,ES,Data Compiler,Rural,1,0.02
+725,ES,Data Compiler,Urban,3,0.05
+726,ES,Data Processing Manager,Urban,8,0.14
+727,ES,Micro Computer Data Processor,Rural,1,0.02
+728,ES,Micro Computer Data Processor,Urban,2,0.04
+729,ES,Database Development Project Manager,Rural,1,0.02
+730,ES,Database Development Project Manager,Urban,1,0.02
+731,ES,Data Processing Supervisor,Urban,2,0.04
+732,ES,Analytical Data Miner,Urban,1,0.02
+733,ES,Data Processing Systems Project Planner,Rural,1,0.02
+734,ES,Data Processing Systems Project Planner,Urban,7,0.12
+735,ES,Data Technician,Urban,2,0.04
+736,ES,Data Modeler,Urban,1,0.02
+737,ES,Business Database Analyst,Urban,2,0.04
+738,ES,Data Entry Operator,Urban,1,0.02
+739,ES,Datastage Developer,Urban,1,0.02
+740,ES,Database Architect,Rural,1,0.02
+741,ES,Database Architect,Urban,7,0.12
+742,ES,Data Examination Clerk,Urban,1,0.02
+743,ES,SCADA Operator (Supervisory Control and Data Acquisition Operator),Urban,1,0.02
+744,ES,Data Processing Auditor,Rural,1,0.02
+745,ES,Data Processing Auditor,Urban,3,0.05
+746,ES,Data Communications Analyst,Urban,5,0.09
+747,ES,Scientific Database Curator,Urban,2,0.04
+748,ES,Oracle Database Administrator (Oracle DBA),Urban,7,0.12
+749,ES,Data Warehousing Manager,Urban,5,0.09
+750,ES,Data Sciences Director,Rural,1,0.02
+751,ES,Data Sciences Director,Urban,4,0.07
+752,ES,Clinical Data Abstractor,Urban,1,0.02
+753,ES,Data Architect,Rural,1,0.02
+754,ES,Data Architect,Urban,7,0.12
+755,ES,Data Control Clerk Supervisor,Urban,1,0.02
+756,ES,Geographic Information Systems Database Administrator (GIS Database Administrator),Rural,1,0.02
+757,ES,Geographic Information Systems Database Administrator (GIS Database Administrator),Urban,7,0.12
+758,ES,SQL Database Administrator,Rural,3,0.05
+759,ES,SQL Database Administrator,Urban,5,0.09
+760,ES,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Rural,2,0.04
+761,ES,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Urban,9,0.16
+762,ES,Director of Data Operations,Urban,8,0.14
+763,ES,Data Miner,Rural,2,0.04
+764,ES,Data Miner,Urban,3,0.05
+765,ES,Database Consultant,Urban,3,0.05
+766,ES,Database Security Expert,Rural,2,0.04
+767,ES,Database Security Expert,Urban,6,0.11
+768,ES,Data Processing Systems Analyst,Rural,1,0.02
+769,ES,Data Processing Systems Analyst,Urban,9,0.16
+770,ES,Data Analyst,Urban,1,0.02
+771,ES,Databases Computer Consultant,Rural,1,0.02
+772,ES,Databases Computer Consultant,Urban,4,0.07
+773,ES,Data Security Administrator,Rural,2,0.04
+774,ES,Data Security Administrator,Urban,9,0.16
+775,ES,Voice and Data Technician,Urban,2,0.04
+776,ES,Reference Data Expert,Rural,1,0.02
+777,ES,Reference Data Expert,Urban,1,0.02
+778,ES,Database Developer,Urban,1,0.02
+779,ES,Clinical Data Manager,Urban,2,0.04
+780,ES,Data Entry Associate,Rural,1,0.02
+781,ES,Field Traffic Data Technician,Urban,1,0.02
+782,ES,Computer or Data Processing Systems Consultant,Rural,1,0.02
+783,ES,Computer or Data Processing Systems Consultant,Urban,8,0.14
+784,ES,Data Transcriber,Urban,2,0.04
+785,FI,Data Reduction Technician,Urban,2,0.04
+786,FI,Data Coordinator,Urban,3,0.05
+787,FI,Database Marketing Analyst,Urban,3,0.05
+788,FI,Naval Tactical Data System--Combat Information Center Officer,Urban,1,0.02
+789,FI,Database Tester,Urban,2,0.04
+790,FI,Data Administrator,Urban,1,0.02
+791,FI,Data Storage Specialist,Rural,1,0.02
+792,FI,SCADA Technician (Supervisory Control and Data Acquisition Technician),Urban,1,0.02
+793,FI,Database Administration Manager,Urban,3,0.05
+794,FI,Data Modeling Specialist,Urban,2,0.04
+795,FI,Database Software Technician,Urban,2,0.04
+796,FI,Data Warehousing Engineer,Urban,1,0.02
+797,FI,Data Warehousing Specialist,Rural,1,0.02
+798,FI,Geographic Information Systems Data Specialist (GIS Data Specialist),Urban,3,0.05
+799,FI,Database Development and Administration Project Manager,Urban,1,0.02
+800,FI,Field Artillery Automated Tactical Data System Specialist,Rural,1,0.02
+801,FI,Data Collection Technician,Urban,1,0.02
+802,FI,Data Analysis Assistant,Urban,1,0.02
+803,FI,Data Processing Mechanic,Urban,1,0.02
+804,FI,Database Administration Associate,Urban,1,0.02
+805,FI,Geographic Information Systems Data Manager (GIS Data Manager),Rural,1,0.02
+806,FI,Database Specialist,Urban,1,0.02
+807,FI,Clinical Data Management Manager (CDM Manager),Urban,1,0.02
+808,FI,Databases Software Consultant,Urban,1,0.02
+809,FI,Data Management Information Technology Specialist,Urban,1,0.02
+810,FI,Data Officer,Rural,1,0.02
+811,FI,Data Officer,Urban,2,0.04
+812,FI,Database Coordinator,Urban,1,0.02
+813,FI,Data Warehouse Developer,Urban,1,0.02
+814,FI,Data Processing Consultant,Urban,1,0.02
+815,FI,Data Scientist,Rural,1,0.02
+816,FI,Data Operations Director,Urban,1,0.02
+817,FI,Electronic Data Processing Auditor (EDP Auditor),Urban,2,0.04
+818,FI,Internet Database Specialist,Rural,1,0.02
+819,FI,Data Entry Representative,Urban,1,0.02
+820,FI,Data Security Analyst,Urban,1,0.02
+821,FI,Geographic Information Systems Data Administrator (GIS Data Administrator),Rural,1,0.02
+822,FI,Geographic Information Systems Data Administrator (GIS Data Administrator),Urban,1,0.02
+823,FI,Automatic Data Processing Planner (ADP Planner),Urban,1,0.02
+824,FI,Database Manager,Urban,1,0.02
+825,FI,Data Processing Manager,Urban,1,0.02
+826,FI,Database Development Project Manager,Urban,1,0.02
+827,FI,Datastage Developer,Urban,1,0.02
+828,FI,Data Processing Auditor,Urban,2,0.04
+829,FI,Data Communications Analyst,Urban,1,0.02
+830,FI,Oracle Database Administrator (Oracle DBA),Urban,2,0.04
+831,FI,Data Warehousing Manager,Rural,1,0.02
+832,FI,Data Manager,Urban,1,0.02
+833,FI,Data Architect,Rural,1,0.02
+834,FI,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Urban,1,0.02
+835,FI,Director of Data Operations,Urban,2,0.04
+836,FI,Database Consultant,Urban,1,0.02
+837,FI,Data Processing Systems Analyst,Rural,1,0.02
+838,FI,Databases Computer Consultant,Rural,1,0.02
+839,FI,Databases Computer Consultant,Urban,1,0.02
+840,FI,Computer or Data Processing Systems Consultant,Rural,1,0.02
+841,FI,Computer or Data Processing Systems Consultant,Urban,1,0.02
+842,FI,Data Transcriber,Urban,1,0.02
+843,FR,Data Reduction Technician,Urban,1,0.02
+844,FR,Database Analyst,Rural,1,0.02
+845,FR,Database Analyst,Urban,2,0.04
+846,FR,Marketing Database Analyst,Rural,1,0.02
+847,FR,Data Coordinator,Rural,6,0.11
+848,FR,Data Coordinator,Urban,6,0.11
+849,FR,Data Communications Technician,Rural,3,0.05
+850,FR,Data Communications Technician,Urban,1,0.02
+851,FR,Database Marketing Analyst,Rural,4,0.07
+852,FR,Database Marketing Analyst,Urban,8,0.14
+853,FR,Data Entry Clerk,Rural,1,0.02
+854,FR,Data Entry Clerk,Urban,3,0.05
+855,FR,Naval Tactical Data System--Combat Information Center Officer,Rural,1,0.02
+856,FR,Naval Tactical Data System--Combat Information Center Officer,Urban,1,0.02
+857,FR,Database Administration Project Manager,Rural,1,0.02
+858,FR,Database Security Administrator,Rural,6,0.11
+859,FR,Database Security Administrator,Urban,2,0.04
+860,FR,Database Tester,Rural,4,0.07
+861,FR,Database Tester,Urban,7,0.12
+862,FR,Clinical Data Specialist,Urban,1,0.02
+863,FR,Clinical Data Management Associate Director,Rural,1,0.02
+864,FR,Clinical Data Management Associate Director,Urban,1,0.02
+865,FR,Electronic Data Interchange System Developer (EDI System Developer),Rural,5,0.09
+866,FR,Electronic Data Interchange System Developer (EDI System Developer),Urban,4,0.07
+867,FR,Data Administrator,Rural,3,0.05
+868,FR,Data Administrator,Urban,3,0.05
+869,FR,"Operations Officer, Afloat (Naval Tactical Data Systems)",Urban,1,0.02
+870,FR,Database Engineer,Rural,2,0.04
+871,FR,Database Engineer,Urban,7,0.12
+872,FR,Data Storage Specialist,Rural,3,0.05
+873,FR,Data Storage Specialist,Urban,6,0.11
+874,FR,SCADA Technician (Supervisory Control and Data Acquisition Technician),Rural,1,0.02
+875,FR,SCADA Technician (Supervisory Control and Data Acquisition Technician),Urban,1,0.02
+876,FR,Database Administration Manager,Urban,2,0.04
+877,FR,Data Management Associate,Rural,7,0.12
+878,FR,Data Management Associate,Urban,7,0.12
+879,FR,Data Modeling Specialist,Rural,2,0.04
+880,FR,Data Modeling Specialist,Urban,12,0.21
+881,FR,Maintenance Data Analyst,Rural,1,0.02
+882,FR,Maintenance Data Analyst,Urban,1,0.02
+883,FR,Data Entry Specialist,Rural,1,0.02
+884,FR,Data Entry Specialist,Urban,1,0.02
+885,FR,Database Software Technician,Rural,5,0.09
+886,FR,Database Software Technician,Urban,8,0.14
+887,FR,Crime Data Specialist,Urban,1,0.02
+888,FR,Data Collector,Urban,1,0.02
+889,FR,Head of Information Systems and Data Processing,Rural,1,0.02
+890,FR,Head of Information Systems and Data Processing,Urban,11,0.19
+891,FR,Data Entry Supervisor,Urban,1,0.02
+892,FR,Clinical Data Coordinator,Rural,1,0.02
+893,FR,Clinical Data Coordinator,Urban,1,0.02
+894,FR,Data Warehousing Engineer,Rural,1,0.02
+895,FR,Data Warehousing Engineer,Urban,5,0.09
+896,FR,Data Warehousing Specialist,Rural,5,0.09
+897,FR,Data Warehousing Specialist,Urban,2,0.04
+898,FR,Geographic Information Systems Data Specialist (GIS Data Specialist),Rural,3,0.05
+899,FR,Geographic Information Systems Data Specialist (GIS Data Specialist),Urban,6,0.11
+900,FR,Database Development and Administration Project Manager,Rural,4,0.07
+901,FR,Database Development and Administration Project Manager,Urban,6,0.11
+902,FR,Data Warehouse Analyst,Rural,3,0.05
+903,FR,Data Warehouse Analyst,Urban,7,0.12
+904,FR,Data Input Clerk,Urban,1,0.02
+905,FR,Database Management System Specialist (DBMS Specialist),Rural,2,0.04
+906,FR,Database Management System Specialist (DBMS Specialist),Urban,2,0.04
+907,FR,Data Recovery Planner,Urban,2,0.04
+908,FR,Data Collection Technician,Rural,1,0.02
+909,FR,Data Collection Technician,Urban,2,0.04
+910,FR,Database Modeler,Rural,5,0.09
+911,FR,Database Modeler,Urban,8,0.14
+912,FR,Survey Data Technician,Rural,1,0.02
+913,FR,Data Coder Operator,Urban,2,0.04
+914,FR,Data Base Design Analyst,Rural,3,0.05
+915,FR,Data Base Design Analyst,Urban,7,0.12
+916,FR,Flight Test Data Acquisition Technician,Rural,1,0.02
+917,FR,Clinical Data Associate,Urban,2,0.04
+918,FR,Data Capture Specialist,Urban,1,0.02
+919,FR,Database Designer,Rural,4,0.07
+920,FR,Database Designer,Urban,4,0.07
+921,FR,Data Management Manager,Urban,1,0.02
+922,FR,Database Administration Associate,Rural,5,0.09
+923,FR,Database Administration Associate,Urban,5,0.09
+924,FR,Data Entry Machine Operator,Rural,1,0.02
+925,FR,Data Entry Machine Operator,Urban,1,0.02
+926,FR,Geographic Information Systems Data Manager (GIS Data Manager),Rural,2,0.04
+927,FR,Geographic Information Systems Data Manager (GIS Data Manager),Urban,4,0.07
+928,FR,Database Design Analyst,Rural,2,0.04
+929,FR,Database Design Analyst,Urban,6,0.11
+930,FR,Database Specialist,Rural,3,0.05
+931,FR,Database Specialist,Urban,5,0.09
+932,FR,Clinical Data Management Manager (CDM Manager),Rural,2,0.04
+933,FR,Clinical Data Management Manager (CDM Manager),Urban,2,0.04
+934,FR,Databases Software Consultant,Rural,2,0.04
+935,FR,Databases Software Consultant,Urban,4,0.07
+936,FR,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Rural,5,0.09
+937,FR,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Urban,6,0.11
+938,FR,Data Management Information Technology Specialist,Rural,2,0.04
+939,FR,Data Management Information Technology Specialist,Urban,2,0.04
+940,FR,Data Officer,Rural,5,0.09
+941,FR,Data Officer,Urban,10,0.18
+942,FR,Data Typist,Urban,1,0.02
+943,FR,Data Warehouse Architect,Rural,3,0.05
+944,FR,Data Warehouse Architect,Urban,6,0.11
+945,FR,Data Warehouse Specialist,Rural,2,0.04
+946,FR,Data Warehouse Specialist,Urban,9,0.16
+947,FR,Data Control Assistant,Urban,1,0.02
+948,FR,Medical Data Analyst,Rural,2,0.04
+949,FR,Clinical Trials Data Coordinator,Urban,3,0.05
+950,FR,Database Coordinator,Rural,7,0.12
+951,FR,Database Coordinator,Urban,8,0.14
+952,FR,Data Systems Manager,Rural,4,0.07
+953,FR,Data Systems Manager,Urban,2,0.04
+954,FR,Data Warehouse Developer,Rural,3,0.05
+955,FR,Data Warehouse Developer,Urban,2,0.04
+956,FR,Automatic Data Processing Planner,Rural,5,0.09
+957,FR,Automatic Data Processing Planner,Urban,8,0.14
+958,FR,Data Processing Consultant,Urban,5,0.09
+959,FR,Data Communications Software Consultant,Rural,2,0.04
+960,FR,Data Communications Software Consultant,Urban,7,0.12
+961,FR,Data Scientist,Rural,2,0.04
+962,FR,Data Scientist,Urban,5,0.09
+963,FR,Data Operations Director,Rural,3,0.05
+964,FR,Data Operations Director,Urban,3,0.05
+965,FR,Electronic Data Processing Auditor (EDP Auditor),Rural,1,0.02
+966,FR,Electronic Data Processing Auditor (EDP Auditor),Urban,6,0.11
+967,FR,Internet Database Specialist,Rural,3,0.05
+968,FR,Internet Database Specialist,Urban,7,0.12
+969,FR,Data Entry Representative,Rural,1,0.02
+970,FR,Data Entry Representative,Urban,3,0.05
+971,FR,Data Security Analyst,Urban,7,0.12
+972,FR,Geographic Information Systems Data Administrator (GIS Data Administrator),Rural,4,0.07
+973,FR,Geographic Information Systems Data Administrator (GIS Data Administrator),Urban,8,0.14
+974,FR,"Engineer, System Electronic Data Processing (Engineer, System EDP)",Rural,2,0.04
+975,FR,"Engineer, System Electronic Data Processing (Engineer, System EDP)",Urban,4,0.07
+976,FR,Automatic Data Processing Planner (ADP Planner),Rural,2,0.04
+977,FR,Automatic Data Processing Planner (ADP Planner),Urban,7,0.12
+978,FR,Database Manager,Rural,2,0.04
+979,FR,Database Manager,Urban,8,0.14
+980,FR,Database Programmer,Rural,1,0.02
+981,FR,Database Programmer,Urban,2,0.04
+982,FR,Data Processing Manager,Rural,2,0.04
+983,FR,Data Processing Manager,Urban,7,0.12
+984,FR,Micro Computer Data Processor,Rural,1,0.02
+985,FR,Database Development Project Manager,Urban,1,0.02
+986,FR,Data Specialist,Rural,1,0.02
+987,FR,Analytical Data Miner,Urban,2,0.04
+988,FR,Data Processing Systems Project Planner,Rural,2,0.04
+989,FR,Data Processing Systems Project Planner,Urban,5,0.09
+990,FR,Data Technician,Rural,1,0.02
+991,FR,Data Modeler,Urban,2,0.04
+992,FR,Business Database Analyst,Rural,2,0.04
+993,FR,Business Database Analyst,Urban,1,0.02
+994,FR,Datastage Developer,Urban,1,0.02
+995,FR,Database Architect,Rural,4,0.07
+996,FR,Database Architect,Urban,7,0.12
+997,FR,SCADA Operator (Supervisory Control and Data Acquisition Operator),Rural,1,0.02
+998,FR,SCADA Operator (Supervisory Control and Data Acquisition Operator),Urban,2,0.04
+999,FR,Data Processing Auditor,Rural,3,0.05
+1000,FR,Data Processing Auditor,Urban,4,0.07
+1001,FR,Data Communications Analyst,Rural,2,0.04
+1002,FR,Data Communications Analyst,Urban,7,0.12
+1003,FR,Scientific Database Curator,Urban,2,0.04
+1004,FR,Oracle Database Administrator (Oracle DBA),Rural,3,0.05
+1005,FR,Oracle Database Administrator (Oracle DBA),Urban,9,0.16
+1006,FR,GPS Field Data Collector (Global Positioning System Field Data Collector),Urban,1,0.02
+1007,FR,Data Warehousing Manager,Rural,3,0.05
+1008,FR,Data Warehousing Manager,Urban,6,0.11
+1009,FR,Data Sciences Director,Urban,1,0.02
+1010,FR,Data Manager,Rural,1,0.02
+1011,FR,Data Architect,Rural,6,0.11
+1012,FR,Data Architect,Urban,7,0.12
+1013,FR,Data Control Clerk Supervisor,Urban,1,0.02
+1014,FR,Geographic Information Systems Database Administrator (GIS Database Administrator),Urban,4,0.07
+1015,FR,SQL Database Administrator,Rural,2,0.04
+1016,FR,SQL Database Administrator,Urban,1,0.02
+1017,FR,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Rural,4,0.07
+1018,FR,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Urban,7,0.12
+1019,FR,Customer Data Technician,Urban,1,0.02
+1020,FR,Director of Data Operations,Rural,5,0.09
+1021,FR,Director of Data Operations,Urban,11,0.19
+1022,FR,Data Miner,Rural,6,0.11
+1023,FR,Data Miner,Urban,6,0.11
+1024,FR,Database Consultant,Rural,4,0.07
+1025,FR,Database Consultant,Urban,10,0.18
+1026,FR,Database Security Expert,Rural,3,0.05
+1027,FR,Database Security Expert,Urban,4,0.07
+1028,FR,Data Processing Systems Analyst,Rural,4,0.07
+1029,FR,Data Processing Systems Analyst,Urban,6,0.11
+1030,FR,Databases Computer Consultant,Rural,2,0.04
+1031,FR,Databases Computer Consultant,Urban,5,0.09
+1032,FR,Data Security Administrator,Rural,3,0.05
+1033,FR,Data Security Administrator,Urban,9,0.16
+1034,FR,Clinical Data Analyst,Urban,2,0.04
+1035,FR,Voice and Data Technician,Urban,1,0.02
+1036,FR,Reference Data Expert,Rural,1,0.02
+1037,FR,Database Developer,Urban,1,0.02
+1038,FR,Clinical Data Manager,Urban,2,0.04
+1039,FR,Log Data Technician,Rural,3,0.05
+1040,FR,Log Data Technician,Urban,1,0.02
+1041,FR,Field Traffic Data Technician,Rural,1,0.02
+1042,FR,Field Traffic Data Technician,Urban,1,0.02
+1043,FR,Computer or Data Processing Systems Consultant,Rural,6,0.11
+1044,FR,Computer or Data Processing Systems Consultant,Urban,8,0.14
+1045,FR,Data Transcriber,Rural,1,0.02
+1046,FR,Data Transcriber,Urban,2,0.04
+1047,GB,Data Reduction Technician,Rural,1,0.02
+1048,GB,Database Analyst,Urban,2,0.04
+1049,GB,Data Keyer,Rural,1,0.02
+1050,GB,Marketing Database Analyst,Rural,2,0.04
+1051,GB,Marketing Database Analyst,Urban,1,0.02
+1052,GB,Data Coordinator,Rural,6,0.11
+1053,GB,Data Coordinator,Urban,3,0.05
+1054,GB,Data Conversion Operator,Urban,1,0.02
+1055,GB,Database Marketing Analyst,Rural,4,0.07
+1056,GB,Database Marketing Analyst,Urban,1,0.02
+1057,GB,Data Entry Clerk,Urban,1,0.02
+1058,GB,Naval Tactical Data System--Combat Information Center Officer,Rural,2,0.04
+1059,GB,Naval Tactical Data System--Combat Information Center Officer,Urban,2,0.04
+1060,GB,Database Administration Project Manager,Rural,2,0.04
+1061,GB,Database Administration Project Manager,Urban,1,0.02
+1062,GB,Database Security Administrator,Rural,2,0.04
+1063,GB,Database Security Administrator,Urban,4,0.07
+1064,GB,Database Administrator (DBA),Urban,1,0.02
+1065,GB,Flight Data Technician,Rural,1,0.02
+1066,GB,Database Tester,Rural,2,0.04
+1067,GB,Database Tester,Urban,12,0.21
+1068,GB,Clinical Data Specialist,Urban,1,0.02
+1069,GB,Clinical Data Management Associate Director,Urban,1,0.02
+1070,GB,Electronic Data Interchange System Developer (EDI System Developer),Rural,2,0.04
+1071,GB,Electronic Data Interchange System Developer (EDI System Developer),Urban,6,0.11
+1072,GB,Data Administrator,Rural,6,0.11
+1073,GB,Data Administrator,Urban,7,0.12
+1074,GB,Data Processing Auxiliary Equipment Operator,Urban,1,0.02
+1075,GB,Database Engineer,Rural,3,0.05
+1076,GB,Database Engineer,Urban,8,0.14
+1077,GB,"Naval Tactical Data System--Combat Information Center Watch Officer, General",Urban,2,0.04
+1078,GB,Data Storage Specialist,Rural,1,0.02
+1079,GB,Data Storage Specialist,Urban,5,0.09
+1080,GB,SCADA Technician (Supervisory Control and Data Acquisition Technician),Urban,1,0.02
+1081,GB,Database Administration Manager,Rural,2,0.04
+1082,GB,Database Administration Manager,Urban,5,0.09
+1083,GB,Data Management Associate,Rural,1,0.02
+1084,GB,Data Management Associate,Urban,4,0.07
+1085,GB,Data Modeling Specialist,Rural,3,0.05
+1086,GB,Data Modeling Specialist,Urban,7,0.12
+1087,GB,Maintenance Data Analyst,Urban,2,0.04
+1088,GB,Data Processing Control Clerk,Rural,1,0.02
+1089,GB,Database Software Technician,Rural,1,0.02
+1090,GB,Database Software Technician,Urban,5,0.09
+1091,GB,Crime Data Specialist,Urban,1,0.02
+1092,GB,Data Collector,Urban,1,0.02
+1093,GB,Head of Information Systems and Data Processing,Rural,3,0.05
+1094,GB,Head of Information Systems and Data Processing,Urban,9,0.16
+1095,GB,Data Warehousing Engineer,Urban,4,0.07
+1096,GB,Data Warehousing Specialist,Rural,4,0.07
+1097,GB,Data Warehousing Specialist,Urban,3,0.05
+1098,GB,Geographic Information Systems Data Specialist (GIS Data Specialist),Rural,3,0.05
+1099,GB,Geographic Information Systems Data Specialist (GIS Data Specialist),Urban,9,0.16
+1100,GB,Database Development and Administration Project Manager,Rural,1,0.02
+1101,GB,Database Development and Administration Project Manager,Urban,4,0.07
+1102,GB,Data Warehouse Analyst,Rural,1,0.02
+1103,GB,Data Warehouse Analyst,Urban,7,0.12
+1104,GB,Field Artillery Automated Tactical Data System Specialist,Urban,1,0.02
+1105,GB,Data Input Clerk,Urban,3,0.05
+1106,GB,Database Management System Specialist (DBMS Specialist),Rural,5,0.09
+1107,GB,Database Management System Specialist (DBMS Specialist),Urban,3,0.05
+1108,GB,Data Recovery Planner,Urban,2,0.04
+1109,GB,Data Abstractor,Urban,1,0.02
+1110,GB,Data Collection Technician,Urban,1,0.02
+1111,GB,Database Modeler,Rural,2,0.04
+1112,GB,Database Modeler,Urban,8,0.14
+1113,GB,Survey Data Technician,Urban,1,0.02
+1114,GB,Data Base Design Analyst,Rural,1,0.02
+1115,GB,Data Base Design Analyst,Urban,4,0.07
+1116,GB,Flight Test Data Acquisition Technician,Rural,1,0.02
+1117,GB,Flight Test Data Acquisition Technician,Urban,1,0.02
+1118,GB,Clinical Data Associate,Urban,1,0.02
+1119,GB,Data Reviewer,Rural,1,0.02
+1120,GB,Data Reviewer,Urban,1,0.02
+1121,GB,Data Analysis Assistant,Urban,2,0.04
+1122,GB,Database Designer,Rural,3,0.05
+1123,GB,Database Designer,Urban,9,0.16
+1124,GB,Data Processing Mechanic,Rural,1,0.02
+1125,GB,Data Management Manager,Urban,1,0.02
+1126,GB,Database Administration Associate,Rural,3,0.05
+1127,GB,Database Administration Associate,Urban,10,0.18
+1128,GB,Data Entry Machine Operator,Rural,1,0.02
+1129,GB,Geographic Information Systems Data Manager (GIS Data Manager),Rural,1,0.02
+1130,GB,Geographic Information Systems Data Manager (GIS Data Manager),Urban,3,0.05
+1131,GB,Database Technician,Urban,1,0.02
+1132,GB,Database Design Analyst,Rural,2,0.04
+1133,GB,Database Design Analyst,Urban,7,0.12
+1134,GB,LiDAR Data Analyst,Urban,2,0.04
+1135,GB,Database Specialist,Rural,2,0.04
+1136,GB,Database Specialist,Urban,5,0.09
+1137,GB,Data Entry Technician,Urban,1,0.02
+1138,GB,Databases Software Consultant,Rural,2,0.04
+1139,GB,Databases Software Consultant,Urban,2,0.04
+1140,GB,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Rural,4,0.07
+1141,GB,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Urban,6,0.11
+1142,GB,Data Management Information Technology Specialist,Urban,3,0.05
+1143,GB,Data Officer,Rural,2,0.04
+1144,GB,Data Officer,Urban,6,0.11
+1145,GB,Data Typist,Urban,3,0.05
+1146,GB,Data Warehouse Architect,Rural,5,0.09
+1147,GB,Data Warehouse Architect,Urban,7,0.12
+1148,GB,Data Warehouse Specialist,Rural,3,0.05
+1149,GB,Data Warehouse Specialist,Urban,5,0.09
+1150,GB,Data Acquisition Technician,Urban,3,0.05
+1151,GB,Medical Data Analyst,Rural,1,0.02
+1152,GB,Medical Data Analyst,Urban,3,0.05
+1153,GB,Database Coordinator,Rural,3,0.05
+1154,GB,Database Coordinator,Urban,5,0.09
+1155,GB,Data Systems Manager,Rural,2,0.04
+1156,GB,Data Systems Manager,Urban,8,0.14
+1157,GB,Data Warehouse Developer,Rural,4,0.07
+1158,GB,Data Warehouse Developer,Urban,3,0.05
+1159,GB,Automatic Data Processing Planner,Rural,3,0.05
+1160,GB,Automatic Data Processing Planner,Urban,6,0.11
+1161,GB,Data Processing Consultant,Rural,1,0.02
+1162,GB,Data Processing Consultant,Urban,4,0.07
+1163,GB,Data Communications Software Consultant,Rural,4,0.07
+1164,GB,Data Communications Software Consultant,Urban,6,0.11
+1165,GB,Data Scientist,Rural,2,0.04
+1166,GB,Data Scientist,Urban,6,0.11
+1167,GB,Data Operations Director,Urban,5,0.09
+1168,GB,Electronic Data Processing Auditor (EDP Auditor),Rural,2,0.04
+1169,GB,Electronic Data Processing Auditor (EDP Auditor),Urban,3,0.05
+1170,GB,Internet Database Specialist,Rural,4,0.07
+1171,GB,Internet Database Specialist,Urban,5,0.09
+1172,GB,Data Entry Representative,Rural,1,0.02
+1173,GB,Data Security Analyst,Rural,5,0.09
+1174,GB,Data Security Analyst,Urban,4,0.07
+1175,GB,Geographic Information Systems Data Administrator (GIS Data Administrator),Rural,4,0.07
+1176,GB,Geographic Information Systems Data Administrator (GIS Data Administrator),Urban,4,0.07
+1177,GB,"Engineer, System Electronic Data Processing (Engineer, System EDP)",Rural,3,0.05
+1178,GB,"Engineer, System Electronic Data Processing (Engineer, System EDP)",Urban,5,0.09
+1179,GB,Automatic Data Processing Planner (ADP Planner),Rural,1,0.02
+1180,GB,Automatic Data Processing Planner (ADP Planner),Urban,5,0.09
+1181,GB,Database Manager,Rural,6,0.11
+1182,GB,Database Manager,Urban,6,0.11
+1183,GB,Database Programmer,Urban,1,0.02
+1184,GB,Data Compiler,Rural,2,0.04
+1185,GB,Data Processing Manager,Rural,4,0.07
+1186,GB,Data Processing Manager,Urban,4,0.07
+1187,GB,Micro Computer Data Processor,Urban,1,0.02
+1188,GB,Database Development Project Manager,Rural,1,0.02
+1189,GB,Data Specialist,Urban,1,0.02
+1190,GB,Data Processing Supervisor,Rural,1,0.02
+1191,GB,Analytical Data Miner,Urban,2,0.04
+1192,GB,Data Processing Systems Project Planner,Rural,3,0.05
+1193,GB,Data Processing Systems Project Planner,Urban,2,0.04
+1194,GB,Data Technician,Rural,1,0.02
+1195,GB,Data Center Manager,Urban,1,0.02
+1196,GB,Data Modeler,Urban,2,0.04
+1197,GB,Business Database Analyst,Rural,1,0.02
+1198,GB,Data Entry Operator,Rural,2,0.04
+1199,GB,Data Entry Operator,Urban,2,0.04
+1200,GB,Database Architect,Rural,4,0.07
+1201,GB,Database Architect,Urban,5,0.09
+1202,GB,Data Examination Clerk,Rural,2,0.04
+1203,GB,Data Center Operator,Urban,1,0.02
+1204,GB,SCADA Operator (Supervisory Control and Data Acquisition Operator),Urban,1,0.02
+1205,GB,Data Processing Auditor,Rural,3,0.05
+1206,GB,Data Processing Auditor,Urban,5,0.09
+1207,GB,Data Communications Analyst,Rural,5,0.09
+1208,GB,Oracle Database Administrator (Oracle DBA),Rural,1,0.02
+1209,GB,Oracle Database Administrator (Oracle DBA),Urban,8,0.14
+1210,GB,GPS Field Data Collector (Global Positioning System Field Data Collector),Urban,1,0.02
+1211,GB,Data Warehousing Manager,Rural,2,0.04
+1212,GB,Data Warehousing Manager,Urban,2,0.04
+1213,GB,Data Sciences Director,Urban,1,0.02
+1214,GB,Data Manager,Urban,2,0.04
+1215,GB,Data Architect,Rural,2,0.04
+1216,GB,Data Architect,Urban,8,0.14
+1217,GB,Geographic Information Systems Database Administrator (GIS Database Administrator),Rural,4,0.07
+1218,GB,Geographic Information Systems Database Administrator (GIS Database Administrator),Urban,3,0.05
+1219,GB,SQL Database Administrator,Urban,8,0.14
+1220,GB,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Rural,5,0.09
+1221,GB,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Urban,5,0.09
+1222,GB,Customer Data Technician,Rural,2,0.04
+1223,GB,Customer Data Technician,Urban,3,0.05
+1224,GB,Director of Data Operations,Rural,1,0.02
+1225,GB,Director of Data Operations,Urban,4,0.07
+1226,GB,Data Miner,Rural,2,0.04
+1227,GB,Data Miner,Urban,5,0.09
+1228,GB,Database Consultant,Rural,2,0.04
+1229,GB,Database Consultant,Urban,8,0.14
+1230,GB,Database Security Expert,Rural,2,0.04
+1231,GB,Database Security Expert,Urban,8,0.14
+1232,GB,Data Processing Systems Analyst,Rural,4,0.07
+1233,GB,Data Processing Systems Analyst,Urban,8,0.14
+1234,GB,Data Analyst,Urban,3,0.05
+1235,GB,Databases Computer Consultant,Rural,4,0.07
+1236,GB,Databases Computer Consultant,Urban,1,0.02
+1237,GB,Data Security Administrator,Rural,1,0.02
+1238,GB,Data Security Administrator,Urban,3,0.05
+1239,GB,Data Processor,Rural,1,0.02
+1240,GB,Data Processor,Urban,4,0.07
+1241,GB,Database Developer,Rural,1,0.02
+1242,GB,Clinical Data Manager,Urban,1,0.02
+1243,GB,Data Processing Services Sales Representative,Rural,1,0.02
+1244,GB,Data Entry Associate,Rural,1,0.02
+1245,GB,Data Entry Associate,Urban,2,0.04
+1246,GB,Log Data Technician,Urban,1,0.02
+1247,GB,Field Traffic Data Technician,Rural,1,0.02
+1248,GB,Field Traffic Data Technician,Urban,2,0.04
+1249,GB,Computer or Data Processing Systems Consultant,Rural,3,0.05
+1250,GB,Computer or Data Processing Systems Consultant,Urban,10,0.18
+1251,GR,Data Keyer,Urban,1,0.02
+1252,GR,Data Coordinator,Urban,1,0.02
+1253,GR,Data Communications Technician,Urban,1,0.02
+1254,GR,Database Marketing Analyst,Urban,1,0.02
+1255,GR,Data Entry Clerk,Urban,1,0.02
+1256,GR,Database Administration Project Manager,Urban,1,0.02
+1257,GR,Database Tester,Urban,2,0.04
+1258,GR,Weight in Motion Field Data Collection Technician,Rural,1,0.02
+1259,GR,Electronic Data Interchange System Developer (EDI System Developer),Urban,1,0.02
+1260,GR,Data Administrator,Urban,2,0.04
+1261,GR,Database Engineer,Urban,2,0.04
+1262,GR,"Naval Tactical Data System--Combat Information Center Watch Officer, General",Urban,3,0.05
+1263,GR,Data Storage Specialist,Urban,1,0.02
+1264,GR,SCADA Technician (Supervisory Control and Data Acquisition Technician),Rural,1,0.02
+1265,GR,Database Administration Manager,Urban,2,0.04
+1266,GR,Data Modeling Specialist,Urban,3,0.05
+1267,GR,Database Software Technician,Urban,1,0.02
+1268,GR,Data Warehousing Engineer,Urban,3,0.05
+1269,GR,Data Warehousing Specialist,Rural,1,0.02
+1270,GR,Data Warehousing Specialist,Urban,2,0.04
+1271,GR,Geographic Information Systems Data Specialist (GIS Data Specialist),Rural,1,0.02
+1272,GR,Geographic Information Systems Data Specialist (GIS Data Specialist),Urban,1,0.02
+1273,GR,Data Warehouse Analyst,Urban,2,0.04
+1274,GR,Database Management System Specialist (DBMS Specialist),Urban,1,0.02
+1275,GR,Data Abstractor,Urban,2,0.04
+1276,GR,Database Modeler,Urban,2,0.04
+1277,GR,Data Base Design Analyst,Urban,1,0.02
+1278,GR,Clinical Data Associate,Urban,1,0.02
+1279,GR,Database Designer,Urban,2,0.04
+1280,GR,Database Administration Associate,Rural,1,0.02
+1281,GR,Database Administration Associate,Urban,1,0.02
+1282,GR,Geographic Information Systems Data Manager (GIS Data Manager),Urban,1,0.02
+1283,GR,Database Design Analyst,Urban,1,0.02
+1284,GR,Database Specialist,Urban,2,0.04
+1285,GR,Data Entry Technician,Rural,1,0.02
+1286,GR,Clinical Data Management Manager (CDM Manager),Urban,2,0.04
+1287,GR,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Urban,3,0.05
+1288,GR,Data Management Information Technology Specialist,Urban,3,0.05
+1289,GR,Data Officer,Urban,3,0.05
+1290,GR,Data Warehouse Architect,Urban,1,0.02
+1291,GR,Data Warehouse Specialist,Urban,2,0.04
+1292,GR,Database Coordinator,Urban,4,0.07
+1293,GR,Data Systems Manager,Urban,1,0.02
+1294,GR,Data Warehouse Developer,Urban,2,0.04
+1295,GR,Automatic Data Processing Planner,Urban,1,0.02
+1296,GR,Data Processing Consultant,Urban,2,0.04
+1297,GR,Data Communications Software Consultant,Urban,3,0.05
+1298,GR,Data Scientist,Rural,1,0.02
+1299,GR,Data Scientist,Urban,1,0.02
+1300,GR,Electronic Data Processing Auditor (EDP Auditor),Urban,1,0.02
+1301,GR,Internet Database Specialist,Rural,1,0.02
+1302,GR,Internet Database Specialist,Urban,2,0.04
+1303,GR,Data Security Analyst,Urban,2,0.04
+1304,GR,Geographic Information Systems Data Administrator (GIS Data Administrator),Rural,1,0.02
+1305,GR,Geographic Information Systems Data Administrator (GIS Data Administrator),Urban,2,0.04
+1306,GR,"Engineer, System Electronic Data Processing (Engineer, System EDP)",Rural,1,0.02
+1307,GR,"Engineer, System Electronic Data Processing (Engineer, System EDP)",Urban,1,0.02
+1308,GR,Automatic Data Processing Planner (ADP Planner),Urban,3,0.05
+1309,GR,Database Manager,Rural,1,0.02
+1310,GR,Database Manager,Urban,1,0.02
+1311,GR,Database Programmer,Urban,1,0.02
+1312,GR,Data Processing Manager,Urban,1,0.02
+1313,GR,Micro Computer Data Processor,Urban,2,0.04
+1314,GR,Data Processing Systems Project Planner,Urban,1,0.02
+1315,GR,Database Architect,Urban,1,0.02
+1316,GR,Data Examination Clerk,Rural,1,0.02
+1317,GR,Data Communications Analyst,Urban,1,0.02
+1318,GR,Oracle Database Administrator (Oracle DBA),Urban,2,0.04
+1319,GR,Clinical Data Abstractor,Urban,2,0.04
+1320,GR,Data Architect,Rural,1,0.02
+1321,GR,Data Architect,Urban,2,0.04
+1322,GR,Geographic Information Systems Database Administrator (GIS Database Administrator),Urban,1,0.02
+1323,GR,SQL Database Administrator,Urban,3,0.05
+1324,GR,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Rural,1,0.02
+1325,GR,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Urban,2,0.04
+1326,GR,Customer Data Technician,Urban,1,0.02
+1327,GR,Data Miner,Urban,3,0.05
+1328,GR,Database Consultant,Urban,2,0.04
+1329,GR,Database Security Expert,Urban,2,0.04
+1330,GR,Data Processing Systems Analyst,Urban,1,0.02
+1331,GR,Databases Computer Consultant,Urban,2,0.04
+1332,GR,Data Security Administrator,Urban,2,0.04
+1333,GR,"Naval Tactical Data System--Combat Information Center Watch Officer, Carrier Controlled Approach Controller",Urban,1,0.02
+1334,GR,Data Processor,Urban,1,0.02
+1335,GR,Log Data Technician,Urban,1,0.02
+1336,GR,Computer or Data Processing Systems Consultant,Urban,1,0.02
+1337,HR,Data Coordinator,Rural,1,0.02
+1338,HR,Database Security Administrator,Urban,3,0.05
+1339,HR,Database Tester,Urban,1,0.02
+1340,HR,Clinical Data Management Associate Director,Urban,1,0.02
+1341,HR,Electronic Data Interchange System Developer (EDI System Developer),Urban,1,0.02
+1342,HR,Data Administrator,Rural,1,0.02
+1343,HR,"Operations Officer, Afloat (Naval Tactical Data Systems)",Urban,1,0.02
+1344,HR,Database Engineer,Urban,1,0.02
+1345,HR,Data Storage Specialist,Urban,2,0.04
+1346,HR,Data Management Associate,Urban,1,0.02
+1347,HR,Data Modeling Specialist,Urban,1,0.02
+1348,HR,Head of Information Systems and Data Processing,Urban,1,0.02
+1349,HR,Geographic Information Systems Data Specialist (GIS Data Specialist),Urban,2,0.04
+1350,HR,Database Modeler,Urban,2,0.04
+1351,HR,Data Analysis Assistant,Rural,1,0.02
+1352,HR,Database Designer,Urban,1,0.02
+1353,HR,Geographic Information Systems Data Manager (GIS Data Manager),Urban,2,0.04
+1354,HR,Database Design Analyst,Urban,2,0.04
+1355,HR,Database Specialist,Urban,1,0.02
+1356,HR,Data Management Information Technology Specialist,Urban,1,0.02
+1357,HR,Data Officer,Urban,1,0.02
+1358,HR,Data Warehouse Specialist,Urban,1,0.02
+1359,HR,Database Coordinator,Urban,1,0.02
+1360,HR,Data Systems Manager,Urban,2,0.04
+1361,HR,Data Warehouse Developer,Rural,1,0.02
+1362,HR,Data Operations Director,Urban,1,0.02
+1363,HR,Internet Database Specialist,Urban,2,0.04
+1364,HR,Geographic Information Systems Data Administrator (GIS Data Administrator),Urban,1,0.02
+1365,HR,"Engineer, System Electronic Data Processing (Engineer, System EDP)",Urban,1,0.02
+1366,HR,Data Processing Manager,Urban,1,0.02
+1367,HR,Data Processing Systems Project Planner,Urban,1,0.02
+1368,HR,Clinical Data Abstractor,Urban,1,0.02
+1369,HR,Geographic Information Systems Database Administrator (GIS Database Administrator),Urban,1,0.02
+1370,HR,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Urban,1,0.02
+1371,HR,Database Security Expert,Urban,1,0.02
+1372,HR,Data Security Administrator,Rural,1,0.02
+1373,HR,Data Security Administrator,Urban,1,0.02
+1374,HR,Data Entry Associate,Urban,1,0.02
+1375,HR,Computer or Data Processing Systems Consultant,Urban,2,0.04
+1376,HU,Database Analyst,Rural,1,0.02
+1377,HU,Data Keyer,Rural,1,0.02
+1378,HU,Marketing Database Analyst,Urban,1,0.02
+1379,HU,Data Coordinator,Rural,1,0.02
+1380,HU,Data Coordinator,Urban,2,0.04
+1381,HU,Data Conversion Operator,Urban,1,0.02
+1382,HU,Database Marketing Analyst,Urban,2,0.04
+1383,HU,Naval Tactical Data System--Combat Information Center Officer,Urban,1,0.02
+1384,HU,Database Security Administrator,Urban,1,0.02
+1385,HU,Database Tester,Urban,1,0.02
+1386,HU,Electronic Data Interchange System Developer (EDI System Developer),Urban,1,0.02
+1387,HU,Data Administrator,Rural,1,0.02
+1388,HU,Data Administrator,Urban,3,0.05
+1389,HU,"Operations Officer, Afloat (Naval Tactical Data Systems)",Rural,1,0.02
+1390,HU,Data Processing Auxiliary Equipment Operator,Rural,1,0.02
+1391,HU,Database Engineer,Urban,2,0.04
+1392,HU,Data Storage Specialist,Rural,1,0.02
+1393,HU,Data Storage Specialist,Urban,2,0.04
+1394,HU,Database Administration Manager,Rural,1,0.02
+1395,HU,Database Administration Manager,Urban,1,0.02
+1396,HU,Data Management Associate,Rural,1,0.02
+1397,HU,Data Management Associate,Urban,2,0.04
+1398,HU,Data Modeling Specialist,Rural,2,0.04
+1399,HU,Database Software Technician,Urban,2,0.04
+1400,HU,Head of Information Systems and Data Processing,Rural,2,0.04
+1401,HU,Head of Information Systems and Data Processing,Urban,1,0.02
+1402,HU,Data Entry Supervisor,Rural,1,0.02
+1403,HU,Data Warehousing Engineer,Rural,1,0.02
+1404,HU,Data Warehousing Specialist,Urban,1,0.02
+1405,HU,Geographic Information Systems Data Specialist (GIS Data Specialist),Urban,2,0.04
+1406,HU,Data Warehouse Analyst,Rural,1,0.02
+1407,HU,Data Warehouse Analyst,Urban,1,0.02
+1408,HU,Database Management System Specialist (DBMS Specialist),Rural,1,0.02
+1409,HU,Database Management System Specialist (DBMS Specialist),Urban,1,0.02
+1410,HU,Data Collection Technician,Rural,1,0.02
+1411,HU,Database Modeler,Rural,1,0.02
+1412,HU,Data Base Design Analyst,Urban,2,0.04
+1413,HU,Flight Test Data Acquisition Technician,Rural,1,0.02
+1414,HU,Data Capture Clerk,Urban,1,0.02
+1415,HU,Data Capture Specialist,Urban,1,0.02
+1416,HU,Data Analysis Assistant,Urban,1,0.02
+1417,HU,Database Designer,Urban,1,0.02
+1418,HU,Database Administration Associate,Rural,2,0.04
+1419,HU,Database Administration Associate,Urban,1,0.02
+1420,HU,Data Entry Machine Operator,Urban,1,0.02
+1421,HU,Geographic Information Systems Data Manager (GIS Data Manager),Rural,1,0.02
+1422,HU,Geographic Information Systems Data Manager (GIS Data Manager),Urban,3,0.05
+1423,HU,Database Design Analyst,Urban,1,0.02
+1424,HU,Data Entry Technician,Urban,1,0.02
+1425,HU,Health Data Analyst,Urban,1,0.02
+1426,HU,Databases Software Consultant,Rural,1,0.02
+1427,HU,Databases Software Consultant,Urban,1,0.02
+1428,HU,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Urban,1,0.02
+1429,HU,Data Management Information Technology Specialist,Rural,1,0.02
+1430,HU,Data Management Information Technology Specialist,Urban,1,0.02
+1431,HU,Data Warehouse Architect,Urban,1,0.02
+1432,HU,Data Warehouse Specialist,Rural,3,0.05
+1433,HU,Data Warehouse Specialist,Urban,1,0.02
+1434,HU,Data Acquisition Technician,Rural,1,0.02
+1435,HU,Database Coordinator,Rural,2,0.04
+1436,HU,Database Coordinator,Urban,1,0.02
+1437,HU,Data Warehouse Developer,Urban,1,0.02
+1438,HU,Automatic Data Processing Planner,Urban,1,0.02
+1439,HU,Data Communications Software Consultant,Urban,1,0.02
+1440,HU,Data Operations Director,Urban,1,0.02
+1441,HU,Electronic Data Processing Auditor (EDP Auditor),Rural,1,0.02
+1442,HU,Internet Database Specialist,Urban,2,0.04
+1443,HU,"Engineer, System Electronic Data Processing (Engineer, System EDP)",Urban,2,0.04
+1444,HU,Automatic Data Processing Planner (ADP Planner),Urban,4,0.07
+1445,HU,Database Manager,Urban,1,0.02
+1446,HU,Database Programmer,Rural,1,0.02
+1447,HU,Data Processing Manager,Rural,1,0.02
+1448,HU,Data Specialist,Urban,2,0.04
+1449,HU,Data Processing Supervisor,Urban,1,0.02
+1450,HU,Data Processing Systems Project Planner,Urban,1,0.02
+1451,HU,Datastage Developer,Urban,1,0.02
+1452,HU,Data Processing Auditor,Rural,1,0.02
+1453,HU,Data Processing Auditor,Urban,1,0.02
+1454,HU,Oracle Database Administrator (Oracle DBA),Urban,1,0.02
+1455,HU,Data Warehousing Manager,Urban,1,0.02
+1456,HU,Data Architect,Urban,2,0.04
+1457,HU,Geographic Information Systems Database Administrator (GIS Database Administrator),Rural,1,0.02
+1458,HU,SQL Database Administrator,Rural,2,0.04
+1459,HU,SQL Database Administrator,Urban,2,0.04
+1460,HU,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Urban,1,0.02
+1461,HU,Customer Data Technician,Urban,1,0.02
+1462,HU,Director of Data Operations,Urban,2,0.04
+1463,HU,Data Miner,Rural,4,0.07
+1464,HU,Data Miner,Urban,1,0.02
+1465,HU,Database Consultant,Rural,2,0.04
+1466,HU,Data Processing Systems Analyst,Urban,2,0.04
+1467,HU,Databases Computer Consultant,Urban,2,0.04
+1468,HU,Data Processor,Urban,1,0.02
+1469,HU,Database Developer,Urban,1,0.02
+1470,HU,Data Processing Services Sales Representative,Urban,3,0.05
+1471,HU,Field Traffic Data Technician,Urban,2,0.04
+1472,IE,Database Security Administrator,Rural,1,0.02
+1473,IE,Database Tester,Rural,1,0.02
+1474,IE,Database Tester,Urban,1,0.02
+1475,IE,"Operations Officer, Afloat (Naval Tactical Data Systems)",Urban,1,0.02
+1476,IE,Data Management Associate,Urban,2,0.04
+1477,IE,Data Warehousing Specialist,Urban,1,0.02
+1478,IE,Geographic Information Systems Data Specialist (GIS Data Specialist),Urban,1,0.02
+1479,IE,Data Warehouse Analyst,Urban,1,0.02
+1480,IE,Data Input Clerk,Urban,1,0.02
+1481,IE,Database Modeler,Urban,2,0.04
+1482,IE,Database Designer,Urban,1,0.02
+1483,IE,Data Processing Mechanic,Rural,1,0.02
+1484,IE,Database Administration Associate,Urban,1,0.02
+1485,IE,Geographic Information Systems Data Manager (GIS Data Manager),Urban,2,0.04
+1486,IE,LiDAR Data Analyst,Urban,1,0.02
+1487,IE,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Urban,1,0.02
+1488,IE,Data Acquisition Technician,Urban,1,0.02
+1489,IE,Data Systems Manager,Rural,1,0.02
+1490,IE,Data Systems Manager,Urban,1,0.02
+1491,IE,Data Processing Consultant,Urban,2,0.04
+1492,IE,Data Scientist,Urban,1,0.02
+1493,IE,Electronic Data Processing Auditor (EDP Auditor),Rural,1,0.02
+1494,IE,Automatic Data Processing Planner (ADP Planner),Rural,1,0.02
+1495,IE,Data Processing Manager,Urban,1,0.02
+1496,IE,Data Specialist,Urban,1,0.02
+1497,IE,Data Processing Systems Project Planner,Urban,1,0.02
+1498,IE,Database Architect,Urban,1,0.02
+1499,IE,Data Processing Auditor,Urban,2,0.04
+1500,IE,Data Communications Analyst,Urban,2,0.04
+1501,IE,Oracle Database Administrator (Oracle DBA),Urban,1,0.02
+1502,IE,Data Warehousing Manager,Rural,1,0.02
+1503,IE,Data Architect,Rural,1,0.02
+1504,IE,Data Control Clerk Supervisor,Urban,1,0.02
+1505,IE,Geographic Information Systems Database Administrator (GIS Database Administrator),Rural,1,0.02
+1506,IE,Geographic Information Systems Database Administrator (GIS Database Administrator),Urban,1,0.02
+1507,IE,SQL Database Administrator,Rural,1,0.02
+1508,IE,Data Miner,Rural,1,0.02
+1509,IE,Database Consultant,Rural,1,0.02
+1510,IE,Data Processing Systems Analyst,Urban,2,0.04
+1511,IE,Data Security Administrator,Urban,1,0.02
+1512,IE,Reference Data Expert,Rural,1,0.02
+1513,IT,Data Reduction Technician,Rural,1,0.02
+1514,IT,Database Analyst,Urban,3,0.05
+1515,IT,Marketing Database Analyst,Rural,1,0.02
+1516,IT,Data Coordinator,Rural,2,0.04
+1517,IT,Data Coordinator,Urban,8,0.14
+1518,IT,Data Conversion Operator,Urban,1,0.02
+1519,IT,Data Communications Technician,Rural,1,0.02
+1520,IT,Database Marketing Analyst,Urban,7,0.12
+1521,IT,Data Entry Clerk,Rural,1,0.02
+1522,IT,Data Entry Clerk,Urban,2,0.04
+1523,IT,Naval Tactical Data System--Combat Information Center Officer,Urban,1,0.02
+1524,IT,Database Administration Project Manager,Rural,1,0.02
+1525,IT,Database Security Administrator,Rural,2,0.04
+1526,IT,Database Security Administrator,Urban,9,0.16
+1527,IT,Database Administrator (DBA),Rural,1,0.02
+1528,IT,Flight Data Technician,Rural,1,0.02
+1529,IT,Flight Data Technician,Urban,2,0.04
+1530,IT,Database Tester,Rural,4,0.07
+1531,IT,Database Tester,Urban,6,0.11
+1532,IT,Weight in Motion Field Data Collection Technician,Rural,2,0.04
+1533,IT,Clinical Data Specialist,Urban,2,0.04
+1534,IT,Clinical Data Management Associate Director,Urban,1,0.02
+1535,IT,Electronic Data Interchange System Developer (EDI System Developer),Rural,1,0.02
+1536,IT,Electronic Data Interchange System Developer (EDI System Developer),Urban,5,0.09
+1537,IT,Data Administrator,Rural,3,0.05
+1538,IT,Data Administrator,Urban,10,0.18
+1539,IT,"Operations Officer, Afloat (Naval Tactical Data Systems)",Rural,1,0.02
+1540,IT,"Operations Officer, Afloat (Naval Tactical Data Systems)",Urban,2,0.04
+1541,IT,Data Processing Auxiliary Equipment Operator,Urban,1,0.02
+1542,IT,Database Engineer,Rural,1,0.02
+1543,IT,Database Engineer,Urban,7,0.12
+1544,IT,"Naval Tactical Data System--Combat Information Center Watch Officer, General",Urban,2,0.04
+1545,IT,Data Storage Specialist,Rural,2,0.04
+1546,IT,Data Storage Specialist,Urban,10,0.18
+1547,IT,SCADA Technician (Supervisory Control and Data Acquisition Technician),Rural,1,0.02
+1548,IT,SCADA Technician (Supervisory Control and Data Acquisition Technician),Urban,1,0.02
+1549,IT,Database Administration Manager,Rural,2,0.04
+1550,IT,Database Administration Manager,Urban,10,0.18
+1551,IT,Data Management Associate,Rural,1,0.02
+1552,IT,Data Management Associate,Urban,5,0.09
+1553,IT,Data Modeling Specialist,Rural,1,0.02
+1554,IT,Data Modeling Specialist,Urban,12,0.21
+1555,IT,Data Processing Control Clerk,Urban,2,0.04
+1556,IT,Data Entry Specialist,Rural,1,0.02
+1557,IT,Database Software Technician,Rural,3,0.05
+1558,IT,Database Software Technician,Urban,8,0.14
+1559,IT,Data Collector,Urban,2,0.04
+1560,IT,Head of Information Systems and Data Processing,Rural,1,0.02
+1561,IT,Head of Information Systems and Data Processing,Urban,4,0.07
+1562,IT,Data Entry Supervisor,Rural,1,0.02
+1563,IT,Data Entry Supervisor,Urban,2,0.04
+1564,IT,Clinical Data Coordinator,Urban,1,0.02
+1565,IT,Data Warehousing Engineer,Rural,1,0.02
+1566,IT,Data Warehousing Engineer,Urban,7,0.12
+1567,IT,Data Warehousing Specialist,Rural,3,0.05
+1568,IT,Data Warehousing Specialist,Urban,6,0.11
+1569,IT,Geographic Information Systems Data Specialist (GIS Data Specialist),Rural,2,0.04
+1570,IT,Geographic Information Systems Data Specialist (GIS Data Specialist),Urban,6,0.11
+1571,IT,Database Development and Administration Project Manager,Rural,4,0.07
+1572,IT,Database Development and Administration Project Manager,Urban,6,0.11
+1573,IT,Data Warehouse Analyst,Rural,1,0.02
+1574,IT,Data Warehouse Analyst,Urban,7,0.12
+1575,IT,Field Artillery Automated Tactical Data System Specialist,Rural,1,0.02
+1576,IT,Field Artillery Automated Tactical Data System Specialist,Urban,1,0.02
+1577,IT,Data Input Clerk,Urban,4,0.07
+1578,IT,Database Management System Specialist (DBMS Specialist),Urban,10,0.18
+1579,IT,Data Collection Technician,Urban,1,0.02
+1580,IT,Database Modeler,Rural,2,0.04
+1581,IT,Database Modeler,Urban,4,0.07
+1582,IT,Survey Data Technician,Urban,1,0.02
+1583,IT,Data Coder Operator,Urban,5,0.09
+1584,IT,Data Base Design Analyst,Rural,1,0.02
+1585,IT,Data Base Design Analyst,Urban,8,0.14
+1586,IT,Flight Test Data Acquisition Technician,Rural,1,0.02
+1587,IT,Clinical Data Associate,Urban,2,0.04
+1588,IT,Data Capture Clerk,Rural,1,0.02
+1589,IT,Data Capture Clerk,Urban,2,0.04
+1590,IT,Data Analysis Assistant,Urban,1,0.02
+1591,IT,Database Designer,Rural,1,0.02
+1592,IT,Database Designer,Urban,8,0.14
+1593,IT,Database Administration Associate,Urban,6,0.11
+1594,IT,Data Entry Machine Operator,Urban,1,0.02
+1595,IT,Geographic Information Systems Data Manager (GIS Data Manager),Rural,1,0.02
+1596,IT,Geographic Information Systems Data Manager (GIS Data Manager),Urban,5,0.09
+1597,IT,Database Design Analyst,Rural,2,0.04
+1598,IT,Database Design Analyst,Urban,6,0.11
+1599,IT,Database Specialist,Urban,3,0.05
+1600,IT,Health Data Analyst,Urban,3,0.05
+1601,IT,Clinical Data Management Manager (CDM Manager),Urban,3,0.05
+1602,IT,Databases Software Consultant,Rural,1,0.02
+1603,IT,Databases Software Consultant,Urban,2,0.04
+1604,IT,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Rural,1,0.02
+1605,IT,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Urban,7,0.12
+1606,IT,Data Management Information Technology Specialist,Rural,2,0.04
+1607,IT,Data Management Information Technology Specialist,Urban,7,0.12
+1608,IT,Data Officer,Rural,5,0.09
+1609,IT,Data Officer,Urban,10,0.18
+1610,IT,Data Typist,Urban,3,0.05
+1611,IT,Data Warehouse Architect,Rural,4,0.07
+1612,IT,Data Warehouse Architect,Urban,10,0.18
+1613,IT,Data Warehouse Specialist,Rural,1,0.02
+1614,IT,Data Warehouse Specialist,Urban,8,0.14
+1615,IT,Data Control Assistant,Urban,2,0.04
+1616,IT,Data Acquisition Technician,Urban,2,0.04
+1617,IT,Database Coordinator,Rural,1,0.02
+1618,IT,Database Coordinator,Urban,4,0.07
+1619,IT,Data Systems Manager,Rural,1,0.02
+1620,IT,Data Systems Manager,Urban,7,0.12
+1621,IT,Data Warehouse Developer,Rural,2,0.04
+1622,IT,Data Warehouse Developer,Urban,5,0.09
+1623,IT,Automatic Data Processing Planner,Rural,2,0.04
+1624,IT,Automatic Data Processing Planner,Urban,5,0.09
+1625,IT,Data Processing Consultant,Rural,1,0.02
+1626,IT,Data Processing Consultant,Urban,3,0.05
+1627,IT,Data Communications Software Consultant,Urban,5,0.09
+1628,IT,Data Scientist,Rural,1,0.02
+1629,IT,Data Scientist,Urban,11,0.19
+1630,IT,Data Operations Director,Rural,1,0.02
+1631,IT,Data Operations Director,Urban,3,0.05
+1632,IT,Electronic Data Processing Auditor (EDP Auditor),Rural,2,0.04
+1633,IT,Electronic Data Processing Auditor (EDP Auditor),Urban,6,0.11
+1634,IT,Internet Database Specialist,Rural,2,0.04
+1635,IT,Internet Database Specialist,Urban,9,0.16
+1636,IT,Data Entry Representative,Rural,3,0.05
+1637,IT,Data Security Analyst,Urban,6,0.11
+1638,IT,Geographic Information Systems Data Administrator (GIS Data Administrator),Urban,5,0.09
+1639,IT,"Engineer, System Electronic Data Processing (Engineer, System EDP)",Urban,8,0.14
+1640,IT,Automatic Data Processing Planner (ADP Planner),Rural,1,0.02
+1641,IT,Automatic Data Processing Planner (ADP Planner),Urban,8,0.14
+1642,IT,Database Manager,Rural,5,0.09
+1643,IT,Database Manager,Urban,3,0.05
+1644,IT,Database Programmer,Urban,2,0.04
+1645,IT,Data Compiler,Rural,2,0.04
+1646,IT,Data Compiler,Urban,1,0.02
+1647,IT,Data Processing Manager,Urban,5,0.09
+1648,IT,Micro Computer Data Processor,Urban,2,0.04
+1649,IT,Database Development Project Manager,Rural,1,0.02
+1650,IT,Database Development Project Manager,Urban,1,0.02
+1651,IT,Data Specialist,Rural,1,0.02
+1652,IT,Data Processing Supervisor,Rural,1,0.02
+1653,IT,Data Processing Systems Project Planner,Rural,1,0.02
+1654,IT,Data Processing Systems Project Planner,Urban,9,0.16
+1655,IT,Data Technician,Urban,1,0.02
+1656,IT,Data Modeler,Urban,1,0.02
+1657,IT,Business Database Analyst,Urban,1,0.02
+1658,IT,Data Entry Operator,Rural,1,0.02
+1659,IT,Datastage Developer,Urban,1,0.02
+1660,IT,Database Architect,Rural,4,0.07
+1661,IT,Database Architect,Urban,11,0.19
+1662,IT,Data Examination Clerk,Urban,1,0.02
+1663,IT,Data Center Operator,Rural,1,0.02
+1664,IT,SCADA Operator (Supervisory Control and Data Acquisition Operator),Urban,1,0.02
+1665,IT,Data Processing Auditor,Rural,4,0.07
+1666,IT,Data Processing Auditor,Urban,9,0.16
+1667,IT,Data Communications Analyst,Rural,2,0.04
+1668,IT,Data Communications Analyst,Urban,7,0.12
+1669,IT,Scientific Database Curator,Rural,1,0.02
+1670,IT,Scientific Database Curator,Urban,2,0.04
+1671,IT,Oracle Database Administrator (Oracle DBA),Rural,2,0.04
+1672,IT,Oracle Database Administrator (Oracle DBA),Urban,2,0.04
+1673,IT,GPS Field Data Collector (Global Positioning System Field Data Collector),Urban,1,0.02
+1674,IT,Data Warehousing Manager,Rural,5,0.09
+1675,IT,Data Warehousing Manager,Urban,8,0.14
+1676,IT,Data Sciences Director,Rural,1,0.02
+1677,IT,Data Sciences Director,Urban,1,0.02
+1678,IT,Data Manager,Urban,4,0.07
+1679,IT,Clinical Data Abstractor,Urban,1,0.02
+1680,IT,Data Architect,Rural,3,0.05
+1681,IT,Data Architect,Urban,8,0.14
+1682,IT,Data Control Clerk Supervisor,Urban,2,0.04
+1683,IT,Geographic Information Systems Database Administrator (GIS Database Administrator),Rural,3,0.05
+1684,IT,Geographic Information Systems Database Administrator (GIS Database Administrator),Urban,9,0.16
+1685,IT,SQL Database Administrator,Rural,1,0.02
+1686,IT,SQL Database Administrator,Urban,8,0.14
+1687,IT,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Rural,2,0.04
+1688,IT,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Urban,8,0.14
+1689,IT,Customer Data Technician,Urban,1,0.02
+1690,IT,Director of Data Operations,Rural,2,0.04
+1691,IT,Director of Data Operations,Urban,6,0.11
+1692,IT,Data Miner,Rural,2,0.04
+1693,IT,Data Miner,Urban,12,0.21
+1694,IT,Database Consultant,Rural,4,0.07
+1695,IT,Database Consultant,Urban,7,0.12
+1696,IT,Database Security Expert,Rural,1,0.02
+1697,IT,Database Security Expert,Urban,8,0.14
+1698,IT,Data Processing Systems Analyst,Urban,9,0.16
+1699,IT,Data Analyst,Urban,2,0.04
+1700,IT,Databases Computer Consultant,Rural,1,0.02
+1701,IT,Databases Computer Consultant,Urban,3,0.05
+1702,IT,Data Security Administrator,Urban,3,0.05
+1703,IT,"Naval Tactical Data System--Combat Information Center Watch Officer, Carrier Controlled Approach Controller",Rural,1,0.02
+1704,IT,"Naval Tactical Data System--Combat Information Center Watch Officer, Carrier Controlled Approach Controller",Urban,3,0.05
+1705,IT,Data Processor,Rural,1,0.02
+1706,IT,Data Processor,Urban,2,0.04
+1707,IT,Clinical Data Analyst,Rural,1,0.02
+1708,IT,Voice and Data Technician,Urban,3,0.05
+1709,IT,Database Developer,Urban,2,0.04
+1710,IT,Data Processing Services Sales Representative,Urban,1,0.02
+1711,IT,Data Entry Associate,Urban,1,0.02
+1712,IT,Field Traffic Data Technician,Urban,1,0.02
+1713,IT,Computer or Data Processing Systems Consultant,Rural,2,0.04
+1714,IT,Computer or Data Processing Systems Consultant,Urban,5,0.09
+1715,IT,Data Transcriber,Rural,1,0.02
+1716,LT,Database Security Administrator,Urban,1,0.02
+1717,LT,Clinical Data Management Associate Director,Urban,1,0.02
+1718,LT,Database Administration Manager,Urban,1,0.02
+1719,LT,Maintenance Data Analyst,Urban,1,0.02
+1720,LT,Data Entry Specialist,Urban,1,0.02
+1721,LT,Database Management System Specialist (DBMS Specialist),Urban,1,0.02
+1722,LT,Database Designer,Urban,1,0.02
+1723,LT,Database Design Analyst,Urban,1,0.02
+1724,LT,Database Specialist,Urban,1,0.02
+1725,LT,Databases Software Consultant,Urban,2,0.04
+1726,LT,Data Warehouse Architect,Urban,1,0.02
+1727,LT,Data Warehouse Specialist,Urban,1,0.02
+1728,LT,Data Communications Software Consultant,Urban,2,0.04
+1729,LT,Data Operations Director,Urban,1,0.02
+1730,LT,Electronic Data Processing Auditor (EDP Auditor),Urban,2,0.04
+1731,LT,Internet Database Specialist,Urban,1,0.02
+1732,LT,Automatic Data Processing Planner (ADP Planner),Urban,2,0.04
+1733,LT,Database Manager,Urban,1,0.02
+1734,LT,Data Processing Systems Project Planner,Urban,1,0.02
+1735,LT,Data Processing Auditor,Urban,1,0.02
+1736,LT,Oracle Database Administrator (Oracle DBA),Urban,1,0.02
+1737,LT,SQL Database Administrator,Urban,1,0.02
+1738,LT,Director of Data Operations,Urban,1,0.02
+1739,LT,Data Security Administrator,Urban,1,0.02
+1740,LT,Voice and Data Technician,Urban,1,0.02
+1741,LU,Data Conversion Operator,Rural,1,0.02
+1742,LU,Database Security Administrator,Urban,1,0.02
+1743,LU,Data Storage Specialist,Rural,1,0.02
+1744,LU,Database Design Analyst,Rural,1,0.02
+1745,LU,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Urban,2,0.04
+1746,LU,Data Communications Software Consultant,Rural,1,0.02
+1747,LU,Data Processing Auditor,Urban,1,0.02
+1748,LU,Geographic Information Systems Database Administrator (GIS Database Administrator),Urban,1,0.02
+1749,LV,Data Coordinator,Urban,1,0.02
+1750,LV,Data Conversion Operator,Urban,1,0.02
+1751,LV,Weight in Motion Field Data Collection Technician,Urban,1,0.02
+1752,LV,Head of Information Systems and Data Processing,Rural,1,0.02
+1753,LV,Data Warehousing Engineer,Urban,2,0.04
+1754,LV,Data Warehousing Specialist,Urban,1,0.02
+1755,LV,Data Base Design Analyst,Urban,1,0.02
+1756,LV,Database Administration Associate,Urban,1,0.02
+1757,LV,Database Design Analyst,Rural,1,0.02
+1758,LV,Data Warehouse Architect,Urban,1,0.02
+1759,LV,Data Systems Manager,Urban,1,0.02
+1760,LV,Data Operations Director,Urban,1,0.02
+1761,LV,Data Processing Clerk,Rural,1,0.02
+1762,LV,Data Processing Manager,Rural,1,0.02
+1763,LV,Data Processing Systems Project Planner,Rural,1,0.02
+1764,LV,Data Communications Analyst,Urban,1,0.02
+1765,LV,Data Warehousing Manager,Urban,1,0.02
+1766,LV,Data Architect,Urban,1,0.02
+1767,LV,Director of Data Operations,Rural,1,0.02
+1768,LV,Data Analyst,Urban,1,0.02
+1769,LV,Databases Computer Consultant,Urban,1,0.02
+1770,LV,Clinical Data Manager,Urban,1,0.02
+1771,MT,Database Coordinator,Rural,1,0.02
+1772,MT,Database Coordinator,Urban,1,0.02
+1773,MT,Data Scientist,Rural,1,0.02
+1774,MT,Internet Database Specialist,Urban,1,0.02
+1775,MT,Geographic Information Systems Data Administrator (GIS Data Administrator),Urban,1,0.02
+1776,NL,Data Processing Equipment Repairer,Rural,2,0.04
+1777,NL,Data Processing Equipment Repairer,Urban,1,0.02
+1778,NL,Database Analyst,Rural,1,0.02
+1779,NL,Data Coordinator,Rural,1,0.02
+1780,NL,Database Marketing Analyst,Rural,3,0.05
+1781,NL,Database Marketing Analyst,Urban,2,0.04
+1782,NL,Database Administration Project Manager,Rural,1,0.02
+1783,NL,Database Security Administrator,Rural,1,0.02
+1784,NL,Database Tester,Rural,1,0.02
+1785,NL,Database Tester,Urban,1,0.02
+1786,NL,Weight in Motion Field Data Collection Technician,Urban,1,0.02
+1787,NL,Data Administrator,Urban,3,0.05
+1788,NL,SCADA Technician (Supervisory Control and Data Acquisition Technician),Urban,1,0.02
+1789,NL,Database Administration Manager,Urban,1,0.02
+1790,NL,Data Management Associate,Urban,4,0.07
+1791,NL,Data Modeling Specialist,Urban,2,0.04
+1792,NL,Data Processing Control Clerk,Urban,1,0.02
+1793,NL,Database Software Technician,Urban,3,0.05
+1794,NL,Data Collector,Rural,1,0.02
+1795,NL,Data Entry Supervisor,Rural,1,0.02
+1796,NL,Data Warehousing Engineer,Rural,1,0.02
+1797,NL,Data Warehousing Engineer,Urban,4,0.07
+1798,NL,Geographic Information Systems Data Specialist (GIS Data Specialist),Urban,1,0.02
+1799,NL,Database Development and Administration Project Manager,Urban,1,0.02
+1800,NL,Data Warehouse Analyst,Rural,1,0.02
+1801,NL,Data Warehouse Analyst,Urban,2,0.04
+1802,NL,Field Artillery Automated Tactical Data System Specialist,Urban,2,0.04
+1803,NL,Database Management System Specialist (DBMS Specialist),Urban,2,0.04
+1804,NL,Data Collection Technician,Urban,1,0.02
+1805,NL,Database Modeler,Rural,2,0.04
+1806,NL,Database Modeler,Urban,1,0.02
+1807,NL,Survey Data Technician,Urban,1,0.02
+1808,NL,Clinical Data Associate,Urban,1,0.02
+1809,NL,Data Analysis Assistant,Rural,1,0.02
+1810,NL,Database Designer,Urban,3,0.05
+1811,NL,Data Processing Mechanic,Urban,1,0.02
+1812,NL,Database Administration Associate,Rural,1,0.02
+1813,NL,Database Administration Associate,Urban,2,0.04
+1814,NL,Geographic Information Systems Data Manager (GIS Data Manager),Urban,1,0.02
+1815,NL,Database Design Analyst,Urban,1,0.02
+1816,NL,LiDAR Data Analyst,Urban,1,0.02
+1817,NL,Database Specialist,Urban,2,0.04
+1818,NL,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Rural,1,0.02
+1819,NL,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Urban,2,0.04
+1820,NL,Data Management Information Technology Specialist,Urban,2,0.04
+1821,NL,Data Warehouse Specialist,Urban,2,0.04
+1822,NL,Data Control Assistant,Rural,1,0.02
+1823,NL,Data Control Assistant,Urban,1,0.02
+1824,NL,Database Coordinator,Urban,4,0.07
+1825,NL,Data Systems Manager,Urban,1,0.02
+1826,NL,Automatic Data Processing Planner,Urban,3,0.05
+1827,NL,Data Processing Consultant,Urban,2,0.04
+1828,NL,Data Communications Software Consultant,Urban,1,0.02
+1829,NL,Data Scientist,Urban,3,0.05
+1830,NL,Electronic Data Processing Auditor (EDP Auditor),Rural,1,0.02
+1831,NL,Electronic Data Processing Auditor (EDP Auditor),Urban,4,0.07
+1832,NL,Internet Database Specialist,Rural,1,0.02
+1833,NL,Internet Database Specialist,Urban,2,0.04
+1834,NL,Data Security Analyst,Rural,1,0.02
+1835,NL,Data Security Analyst,Urban,3,0.05
+1836,NL,Geographic Information Systems Data Administrator (GIS Data Administrator),Urban,1,0.02
+1837,NL,"Engineer, System Electronic Data Processing (Engineer, System EDP)",Rural,2,0.04
+1838,NL,"Engineer, System Electronic Data Processing (Engineer, System EDP)",Urban,4,0.07
+1839,NL,Database Manager,Urban,2,0.04
+1840,NL,Data Compiler,Rural,1,0.02
+1841,NL,Data Processing Manager,Rural,3,0.05
+1842,NL,Data Processing Manager,Urban,1,0.02
+1843,NL,Micro Computer Data Processor,Urban,1,0.02
+1844,NL,Data Technician,Rural,1,0.02
+1845,NL,Business Database Analyst,Urban,1,0.02
+1846,NL,Database Architect,Rural,1,0.02
+1847,NL,Data Examination Clerk,Rural,1,0.02
+1848,NL,Data Center Operator,Rural,1,0.02
+1849,NL,Data Center Operator,Urban,1,0.02
+1850,NL,SCADA Operator (Supervisory Control and Data Acquisition Operator),Rural,1,0.02
+1851,NL,Data Processing Auditor,Rural,1,0.02
+1852,NL,Data Communications Analyst,Urban,1,0.02
+1853,NL,Oracle Database Administrator (Oracle DBA),Rural,3,0.05
+1854,NL,GPS Field Data Collector (Global Positioning System Field Data Collector),Urban,1,0.02
+1855,NL,Data Warehousing Manager,Urban,2,0.04
+1856,NL,Data Sciences Director,Urban,1,0.02
+1857,NL,Data Manager,Urban,1,0.02
+1858,NL,Data Control Clerk Supervisor,Urban,2,0.04
+1859,NL,Geographic Information Systems Database Administrator (GIS Database Administrator),Rural,1,0.02
+1860,NL,Geographic Information Systems Database Administrator (GIS Database Administrator),Urban,1,0.02
+1861,NL,SQL Database Administrator,Urban,1,0.02
+1862,NL,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Rural,1,0.02
+1863,NL,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Urban,1,0.02
+1864,NL,Director of Data Operations,Rural,1,0.02
+1865,NL,Director of Data Operations,Urban,2,0.04
+1866,NL,Data Miner,Urban,2,0.04
+1867,NL,Database Consultant,Rural,1,0.02
+1868,NL,Database Consultant,Urban,2,0.04
+1869,NL,Database Security Expert,Urban,2,0.04
+1870,NL,Data Processing Systems Analyst,Rural,2,0.04
+1871,NL,Data Processing Systems Analyst,Urban,4,0.07
+1872,NL,Data Analyst,Rural,1,0.02
+1873,NL,Data Security Administrator,Rural,1,0.02
+1874,NL,Data Security Administrator,Urban,1,0.02
+1875,NL,Reference Data Expert,Urban,1,0.02
+1876,NL,Clinical Data Manager,Rural,1,0.02
+1877,NL,Data Processing Services Sales Representative,Urban,1,0.02
+1878,NL,Data Entry Associate,Urban,1,0.02
+1879,NL,Computer or Data Processing Systems Consultant,Urban,2,0.04
+1880,PL,Data Reduction Technician,Urban,1,0.02
+1881,PL,Data Processing Equipment Repairer,Urban,1,0.02
+1882,PL,Database Analyst,Urban,2,0.04
+1883,PL,Marketing Database Analyst,Urban,2,0.04
+1884,PL,Data Coordinator,Rural,3,0.05
+1885,PL,Data Coordinator,Urban,5,0.09
+1886,PL,Data Communications Technician,Rural,1,0.02
+1887,PL,Data Communications Technician,Urban,1,0.02
+1888,PL,Database Marketing Analyst,Urban,5,0.09
+1889,PL,Naval Tactical Data System--Combat Information Center Officer,Urban,1,0.02
+1890,PL,Database Administration Project Manager,Urban,1,0.02
+1891,PL,Database Security Administrator,Rural,1,0.02
+1892,PL,Database Security Administrator,Urban,10,0.18
+1893,PL,Database Administrator (DBA),Rural,1,0.02
+1894,PL,Database Administrator (DBA),Urban,1,0.02
+1895,PL,Flight Data Technician,Rural,1,0.02
+1896,PL,Flight Data Technician,Urban,2,0.04
+1897,PL,Database Tester,Rural,2,0.04
+1898,PL,Database Tester,Urban,4,0.07
+1899,PL,Weight in Motion Field Data Collection Technician,Urban,1,0.02
+1900,PL,Clinical Data Specialist,Urban,1,0.02
+1901,PL,Clinical Data Management Associate Director,Rural,1,0.02
+1902,PL,Electronic Data Interchange System Developer (EDI System Developer),Urban,5,0.09
+1903,PL,Data Administrator,Urban,7,0.12
+1904,PL,Database Engineer,Urban,5,0.09
+1905,PL,"Naval Tactical Data System--Combat Information Center Watch Officer, General",Urban,3,0.05
+1906,PL,Data Storage Specialist,Rural,2,0.04
+1907,PL,Data Storage Specialist,Urban,11,0.19
+1908,PL,Database Administration Manager,Urban,6,0.11
+1909,PL,Data Management Associate,Urban,5,0.09
+1910,PL,Data Modeling Specialist,Urban,5,0.09
+1911,PL,Data Processing Control Clerk,Urban,1,0.02
+1912,PL,Data Entry Specialist,Rural,1,0.02
+1913,PL,Database Software Technician,Rural,1,0.02
+1914,PL,Database Software Technician,Urban,6,0.11
+1915,PL,Data Collector,Urban,1,0.02
+1916,PL,Head of Information Systems and Data Processing,Urban,2,0.04
+1917,PL,Data Entry Supervisor,Urban,1,0.02
+1918,PL,Clinical Data Coordinator,Urban,1,0.02
+1919,PL,Data Warehousing Engineer,Urban,3,0.05
+1920,PL,Data Warehousing Specialist,Rural,1,0.02
+1921,PL,Data Warehousing Specialist,Urban,4,0.07
+1922,PL,Geographic Information Systems Data Specialist (GIS Data Specialist),Rural,1,0.02
+1923,PL,Geographic Information Systems Data Specialist (GIS Data Specialist),Urban,11,0.19
+1924,PL,Database Development and Administration Project Manager,Rural,2,0.04
+1925,PL,Database Development and Administration Project Manager,Urban,10,0.18
+1926,PL,Data Warehouse Analyst,Rural,1,0.02
+1927,PL,Data Warehouse Analyst,Urban,7,0.12
+1928,PL,Field Artillery Automated Tactical Data System Specialist,Rural,1,0.02
+1929,PL,Field Artillery Automated Tactical Data System Specialist,Urban,1,0.02
+1930,PL,Data Input Clerk,Urban,1,0.02
+1931,PL,Database Management System Specialist (DBMS Specialist),Urban,6,0.11
+1932,PL,Data Recovery Planner,Rural,1,0.02
+1933,PL,Data Collection Technician,Urban,3,0.05
+1934,PL,Database Modeler,Rural,2,0.04
+1935,PL,Database Modeler,Urban,2,0.04
+1936,PL,Survey Data Technician,Urban,1,0.02
+1937,PL,Data Coder Operator,Urban,1,0.02
+1938,PL,Data Base Design Analyst,Urban,3,0.05
+1939,PL,Flight Test Data Acquisition Technician,Urban,2,0.04
+1940,PL,Clinical Data Associate,Rural,1,0.02
+1941,PL,Data Capture Clerk,Urban,2,0.04
+1942,PL,Data Capture Specialist,Urban,3,0.05
+1943,PL,Data Reviewer,Rural,1,0.02
+1944,PL,Database Designer,Rural,1,0.02
+1945,PL,Database Designer,Urban,4,0.07
+1946,PL,Data Management Manager,Urban,1,0.02
+1947,PL,Database Administration Associate,Urban,4,0.07
+1948,PL,Geographic Information Systems Data Manager (GIS Data Manager),Rural,3,0.05
+1949,PL,Geographic Information Systems Data Manager (GIS Data Manager),Urban,3,0.05
+1950,PL,Database Technician,Urban,1,0.02
+1951,PL,Database Design Analyst,Rural,1,0.02
+1952,PL,Database Design Analyst,Urban,9,0.16
+1953,PL,LiDAR Data Analyst,Urban,3,0.05
+1954,PL,Database Specialist,Urban,5,0.09
+1955,PL,Data Entry Technician,Rural,1,0.02
+1956,PL,Data Entry Technician,Urban,1,0.02
+1957,PL,Clinical Data Management Manager (CDM Manager),Urban,2,0.04
+1958,PL,Databases Software Consultant,Rural,2,0.04
+1959,PL,Databases Software Consultant,Urban,3,0.05
+1960,PL,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Urban,9,0.16
+1961,PL,Data Management Information Technology Specialist,Rural,2,0.04
+1962,PL,Data Management Information Technology Specialist,Urban,5,0.09
+1963,PL,Data Officer,Urban,7,0.12
+1964,PL,Data Typist,Urban,1,0.02
+1965,PL,Data Warehouse Architect,Urban,4,0.07
+1966,PL,Data Warehouse Specialist,Urban,9,0.16
+1967,PL,Data Control Assistant,Urban,1,0.02
+1968,PL,Data Acquisition Technician,Urban,2,0.04
+1969,PL,Medical Data Analyst,Rural,1,0.02
+1970,PL,Database Coordinator,Rural,1,0.02
+1971,PL,Database Coordinator,Urban,5,0.09
+1972,PL,Data Systems Manager,Rural,1,0.02
+1973,PL,Data Systems Manager,Urban,5,0.09
+1974,PL,Data Warehouse Developer,Rural,1,0.02
+1975,PL,Data Warehouse Developer,Urban,10,0.18
+1976,PL,Automatic Data Processing Planner,Rural,1,0.02
+1977,PL,Automatic Data Processing Planner,Urban,5,0.09
+1978,PL,Data Processing Consultant,Urban,5,0.09
+1979,PL,Data Communications Software Consultant,Rural,1,0.02
+1980,PL,Data Communications Software Consultant,Urban,5,0.09
+1981,PL,Data Scientist,Rural,1,0.02
+1982,PL,Data Scientist,Urban,1,0.02
+1983,PL,Data Operations Director,Rural,1,0.02
+1984,PL,Data Operations Director,Urban,3,0.05
+1985,PL,Data Processing Clerk,Urban,1,0.02
+1986,PL,Electronic Data Processing Auditor (EDP Auditor),Rural,1,0.02
+1987,PL,Electronic Data Processing Auditor (EDP Auditor),Urban,5,0.09
+1988,PL,Internet Database Specialist,Rural,1,0.02
+1989,PL,Internet Database Specialist,Urban,1,0.02
+1990,PL,Data Entry Representative,Urban,1,0.02
+1991,PL,Data Security Analyst,Rural,1,0.02
+1992,PL,Data Security Analyst,Urban,8,0.14
+1993,PL,Geographic Information Systems Data Administrator (GIS Data Administrator),Rural,1,0.02
+1994,PL,Geographic Information Systems Data Administrator (GIS Data Administrator),Urban,4,0.07
+1995,PL,"Engineer, System Electronic Data Processing (Engineer, System EDP)",Urban,2,0.04
+1996,PL,Automatic Data Processing Planner (ADP Planner),Rural,3,0.05
+1997,PL,Automatic Data Processing Planner (ADP Planner),Urban,3,0.05
+1998,PL,Database Manager,Rural,1,0.02
+1999,PL,Database Manager,Urban,5,0.09
+2000,PL,Database Programmer,Urban,2,0.04
+2001,PL,Data Compiler,Rural,2,0.04
+2002,PL,Data Processing Manager,Urban,7,0.12
+2003,PL,Data Specialist,Urban,2,0.04
+2004,PL,Data Processing Supervisor,Urban,1,0.02
+2005,PL,Analytical Data Miner,Urban,3,0.05
+2006,PL,Data Processing Systems Project Planner,Urban,3,0.05
+2007,PL,Data Technician,Urban,1,0.02
+2008,PL,Data Entry Operator,Urban,1,0.02
+2009,PL,Datastage Developer,Urban,2,0.04
+2010,PL,Database Architect,Rural,1,0.02
+2011,PL,Database Architect,Urban,3,0.05
+2012,PL,Data Examination Clerk,Urban,1,0.02
+2013,PL,Data Center Operator,Urban,1,0.02
+2014,PL,SCADA Operator (Supervisory Control and Data Acquisition Operator),Urban,1,0.02
+2015,PL,Data Processing Auditor,Rural,2,0.04
+2016,PL,Data Processing Auditor,Urban,5,0.09
+2017,PL,Data Communications Analyst,Rural,3,0.05
+2018,PL,Data Communications Analyst,Urban,10,0.18
+2019,PL,Scientific Database Curator,Urban,1,0.02
+2020,PL,Oracle Database Administrator (Oracle DBA),Rural,1,0.02
+2021,PL,Oracle Database Administrator (Oracle DBA),Urban,6,0.11
+2022,PL,Data Warehousing Manager,Urban,5,0.09
+2023,PL,Data Sciences Director,Urban,2,0.04
+2024,PL,Clinical Data Abstractor,Urban,2,0.04
+2025,PL,Data Architect,Rural,1,0.02
+2026,PL,Data Architect,Urban,9,0.16
+2027,PL,Geographic Information Systems Database Administrator (GIS Database Administrator),Rural,3,0.05
+2028,PL,Geographic Information Systems Database Administrator (GIS Database Administrator),Urban,9,0.16
+2029,PL,SQL Database Administrator,Urban,10,0.18
+2030,PL,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Rural,3,0.05
+2031,PL,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Urban,11,0.19
+2032,PL,Customer Data Technician,Urban,2,0.04
+2033,PL,Director of Data Operations,Rural,2,0.04
+2034,PL,Director of Data Operations,Urban,9,0.16
+2035,PL,Data Miner,Urban,7,0.12
+2036,PL,Database Consultant,Rural,2,0.04
+2037,PL,Database Consultant,Urban,4,0.07
+2038,PL,Database Security Expert,Urban,9,0.16
+2039,PL,Data Processing Systems Analyst,Rural,1,0.02
+2040,PL,Data Processing Systems Analyst,Urban,4,0.07
+2041,PL,Databases Computer Consultant,Rural,1,0.02
+2042,PL,Databases Computer Consultant,Urban,3,0.05
+2043,PL,Data Security Administrator,Urban,8,0.14
+2044,PL,"Naval Tactical Data System--Combat Information Center Watch Officer, Carrier Controlled Approach Controller",Urban,2,0.04
+2045,PL,Clinical Data Analyst,Urban,3,0.05
+2046,PL,Voice and Data Technician,Rural,1,0.02
+2047,PL,Reference Data Expert,Urban,1,0.02
+2048,PL,Database Developer,Urban,2,0.04
+2049,PL,Data Entry Associate,Rural,1,0.02
+2050,PL,Log Data Technician,Urban,1,0.02
+2051,PL,Field Traffic Data Technician,Rural,1,0.02
+2052,PL,Computer or Data Processing Systems Consultant,Urban,6,0.11
+2053,PL,Data Transcriber,Urban,1,0.02
+2054,PT,Data Reduction Technician,Urban,1,0.02
+2055,PT,Data Processing Equipment Repairer,Rural,1,0.02
+2056,PT,Data Coordinator,Rural,1,0.02
+2057,PT,Data Coordinator,Urban,5,0.09
+2058,PT,Data Conversion Operator,Urban,1,0.02
+2059,PT,Data Communications Technician,Urban,1,0.02
+2060,PT,Database Marketing Analyst,Urban,1,0.02
+2061,PT,Clinical Data Specialist,Urban,1,0.02
+2062,PT,Clinical Data Management Associate Director,Urban,1,0.02
+2063,PT,Electronic Data Interchange System Developer (EDI System Developer),Rural,1,0.02
+2064,PT,Electronic Data Interchange System Developer (EDI System Developer),Urban,2,0.04
+2065,PT,Data Administrator,Rural,1,0.02
+2066,PT,Data Administrator,Urban,4,0.07
+2067,PT,Database Engineer,Urban,2,0.04
+2068,PT,Data Storage Specialist,Rural,1,0.02
+2069,PT,Data Storage Specialist,Urban,1,0.02
+2070,PT,Database Administration Manager,Rural,1,0.02
+2071,PT,Data Management Associate,Urban,3,0.05
+2072,PT,Data Modeling Specialist,Urban,1,0.02
+2073,PT,Data Processing Control Clerk,Urban,1,0.02
+2074,PT,Database Software Technician,Rural,1,0.02
+2075,PT,Database Software Technician,Urban,1,0.02
+2076,PT,Data Collector,Urban,1,0.02
+2077,PT,Clinical Data Coordinator,Urban,1,0.02
+2078,PT,Data Warehousing Engineer,Rural,1,0.02
+2079,PT,Geographic Information Systems Data Specialist (GIS Data Specialist),Rural,1,0.02
+2080,PT,Geographic Information Systems Data Specialist (GIS Data Specialist),Urban,1,0.02
+2081,PT,Database Development and Administration Project Manager,Urban,1,0.02
+2082,PT,Data Warehouse Analyst,Urban,2,0.04
+2083,PT,Database Management System Specialist (DBMS Specialist),Urban,1,0.02
+2084,PT,Data Recovery Planner,Urban,3,0.05
+2085,PT,Data Base Design Analyst,Rural,2,0.04
+2086,PT,Data Capture Clerk,Urban,2,0.04
+2087,PT,Data Management Manager,Urban,1,0.02
+2088,PT,Database Administration Associate,Urban,2,0.04
+2089,PT,Data Entry Machine Operator,Urban,1,0.02
+2090,PT,Geographic Information Systems Data Manager (GIS Data Manager),Urban,1,0.02
+2091,PT,LiDAR Data Analyst,Rural,1,0.02
+2092,PT,Database Specialist,Urban,3,0.05
+2093,PT,Databases Software Consultant,Urban,3,0.05
+2094,PT,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Rural,1,0.02
+2095,PT,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Urban,4,0.07
+2096,PT,Data Management Information Technology Specialist,Urban,1,0.02
+2097,PT,Data Officer,Urban,3,0.05
+2098,PT,Data Warehouse Architect,Rural,1,0.02
+2099,PT,Data Warehouse Architect,Urban,1,0.02
+2100,PT,Data Warehouse Specialist,Urban,1,0.02
+2101,PT,Database Coordinator,Rural,1,0.02
+2102,PT,Database Coordinator,Urban,1,0.02
+2103,PT,Automatic Data Processing Planner,Urban,1,0.02
+2104,PT,Data Processing Consultant,Urban,5,0.09
+2105,PT,Data Communications Software Consultant,Urban,5,0.09
+2106,PT,Data Scientist,Rural,2,0.04
+2107,PT,Data Scientist,Urban,2,0.04
+2108,PT,Data Processing Clerk,Rural,1,0.02
+2109,PT,Electronic Data Processing Auditor (EDP Auditor),Urban,3,0.05
+2110,PT,Internet Database Specialist,Urban,1,0.02
+2111,PT,Data Security Analyst,Urban,4,0.07
+2112,PT,Geographic Information Systems Data Administrator (GIS Data Administrator),Urban,3,0.05
+2113,PT,"Engineer, System Electronic Data Processing (Engineer, System EDP)",Urban,1,0.02
+2114,PT,Automatic Data Processing Planner (ADP Planner),Urban,1,0.02
+2115,PT,Database Manager,Rural,1,0.02
+2116,PT,Database Manager,Urban,2,0.04
+2117,PT,Data Processing Manager,Rural,3,0.05
+2118,PT,Data Processing Manager,Urban,1,0.02
+2119,PT,Micro Computer Data Processor,Urban,1,0.02
+2120,PT,Analytical Data Miner,Urban,1,0.02
+2121,PT,Data Processing Systems Project Planner,Urban,2,0.04
+2122,PT,Database Architect,Urban,3,0.05
+2123,PT,Data Center Operator,Urban,1,0.02
+2124,PT,Data Communications Analyst,Urban,2,0.04
+2125,PT,Oracle Database Administrator (Oracle DBA),Urban,1,0.02
+2126,PT,Data Warehousing Manager,Urban,1,0.02
+2127,PT,Data Manager,Rural,1,0.02
+2128,PT,Data Architect,Rural,1,0.02
+2129,PT,Data Architect,Urban,1,0.02
+2130,PT,Geographic Information Systems Database Administrator (GIS Database Administrator),Rural,1,0.02
+2131,PT,SQL Database Administrator,Urban,2,0.04
+2132,PT,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Urban,3,0.05
+2133,PT,Data Miner,Urban,1,0.02
+2134,PT,Database Consultant,Urban,2,0.04
+2135,PT,Databases Computer Consultant,Urban,1,0.02
+2136,PT,Data Processor,Urban,1,0.02
+2137,PT,Clinical Data Manager,Urban,1,0.02
+2138,PT,Data Processing Services Sales Representative,Urban,1,0.02
+2139,PT,Log Data Technician,Urban,1,0.02
+2140,PT,Field Traffic Data Technician,Urban,1,0.02
+2141,PT,Computer or Data Processing Systems Consultant,Rural,1,0.02
+2142,PT,Computer or Data Processing Systems Consultant,Urban,2,0.04
+2143,RO,Database Analyst,Urban,3,0.05
+2144,RO,Marketing Database Analyst,Urban,1,0.02
+2145,RO,Data Coordinator,Urban,3,0.05
+2146,RO,Data Entry Clerk,Rural,1,0.02
+2147,RO,Naval Tactical Data System--Combat Information Center Officer,Urban,1,0.02
+2148,RO,Database Security Administrator,Urban,2,0.04
+2149,RO,Database Tester,Urban,6,0.11
+2150,RO,Electronic Data Interchange System Developer (EDI System Developer),Urban,2,0.04
+2151,RO,Data Administrator,Urban,5,0.09
+2152,RO,Database Engineer,Rural,1,0.02
+2153,RO,Database Engineer,Urban,2,0.04
+2154,RO,Data Storage Specialist,Rural,1,0.02
+2155,RO,Data Storage Specialist,Urban,4,0.07
+2156,RO,SCADA Technician (Supervisory Control and Data Acquisition Technician),Urban,1,0.02
+2157,RO,Database Administration Manager,Urban,2,0.04
+2158,RO,Data Management Associate,Urban,7,0.12
+2159,RO,Data Modeling Specialist,Rural,1,0.02
+2160,RO,Data Modeling Specialist,Urban,1,0.02
+2161,RO,Data Entry Specialist,Urban,1,0.02
+2162,RO,Database Software Technician,Urban,1,0.02
+2163,RO,Crime Data Specialist,Rural,1,0.02
+2164,RO,Head of Information Systems and Data Processing,Rural,2,0.04
+2165,RO,Head of Information Systems and Data Processing,Urban,4,0.07
+2166,RO,Data Entry Supervisor,Rural,1,0.02
+2167,RO,Data Warehousing Engineer,Urban,4,0.07
+2168,RO,Data Warehousing Specialist,Rural,1,0.02
+2169,RO,Data Warehousing Specialist,Urban,2,0.04
+2170,RO,Geographic Information Systems Data Specialist (GIS Data Specialist),Rural,1,0.02
+2171,RO,Database Development and Administration Project Manager,Urban,2,0.04
+2172,RO,Data Warehouse Analyst,Rural,1,0.02
+2173,RO,Data Warehouse Analyst,Urban,1,0.02
+2174,RO,Field Artillery Automated Tactical Data System Specialist,Rural,1,0.02
+2175,RO,Field Artillery Automated Tactical Data System Specialist,Urban,1,0.02
+2176,RO,Data Input Clerk,Rural,1,0.02
+2177,RO,Data Input Clerk,Urban,1,0.02
+2178,RO,Database Management System Specialist (DBMS Specialist),Urban,4,0.07
+2179,RO,Data Abstractor,Rural,1,0.02
+2180,RO,Data Collection Technician,Urban,2,0.04
+2181,RO,Database Modeler,Rural,1,0.02
+2182,RO,Data Coder Operator,Urban,1,0.02
+2183,RO,Data Base Design Analyst,Urban,2,0.04
+2184,RO,Clinical Data Associate,Urban,2,0.04
+2185,RO,Data Analysis Assistant,Urban,2,0.04
+2186,RO,Database Designer,Rural,1,0.02
+2187,RO,Database Designer,Urban,2,0.04
+2188,RO,Data Management Manager,Urban,1,0.02
+2189,RO,Database Administration Associate,Rural,1,0.02
+2190,RO,Database Administration Associate,Urban,2,0.04
+2191,RO,Geographic Information Systems Data Manager (GIS Data Manager),Urban,2,0.04
+2192,RO,Database Technician,Urban,1,0.02
+2193,RO,Database Design Analyst,Rural,1,0.02
+2194,RO,Database Design Analyst,Urban,1,0.02
+2195,RO,Database Specialist,Urban,5,0.09
+2196,RO,Data Entry Technician,Rural,1,0.02
+2197,RO,Data Entry Technician,Urban,1,0.02
+2198,RO,Health Data Analyst,Urban,1,0.02
+2199,RO,Databases Software Consultant,Rural,1,0.02
+2200,RO,Databases Software Consultant,Urban,2,0.04
+2201,RO,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Rural,1,0.02
+2202,RO,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Urban,2,0.04
+2203,RO,Data Management Information Technology Specialist,Urban,2,0.04
+2204,RO,Data Officer,Rural,1,0.02
+2205,RO,Data Officer,Urban,6,0.11
+2206,RO,Data Warehouse Architect,Urban,2,0.04
+2207,RO,Data Warehouse Specialist,Rural,1,0.02
+2208,RO,Data Warehouse Specialist,Urban,1,0.02
+2209,RO,Medical Data Analyst,Urban,1,0.02
+2210,RO,Data Systems Manager,Rural,1,0.02
+2211,RO,Data Systems Manager,Urban,1,0.02
+2212,RO,Data Warehouse Developer,Urban,2,0.04
+2213,RO,Automatic Data Processing Planner,Urban,3,0.05
+2214,RO,Data Processing Consultant,Urban,2,0.04
+2215,RO,Data Communications Software Consultant,Urban,1,0.02
+2216,RO,Electronic Data Processing Auditor (EDP Auditor),Urban,4,0.07
+2217,RO,Internet Database Specialist,Urban,1,0.02
+2218,RO,Data Entry Representative,Urban,1,0.02
+2219,RO,Data Security Analyst,Rural,1,0.02
+2220,RO,Data Security Analyst,Urban,4,0.07
+2221,RO,Geographic Information Systems Data Administrator (GIS Data Administrator),Urban,2,0.04
+2222,RO,"Engineer, System Electronic Data Processing (Engineer, System EDP)",Urban,3,0.05
+2223,RO,Automatic Data Processing Planner (ADP Planner),Urban,3,0.05
+2224,RO,Database Manager,Rural,1,0.02
+2225,RO,Database Manager,Urban,1,0.02
+2226,RO,Database Programmer,Urban,2,0.04
+2227,RO,Data Compiler,Urban,1,0.02
+2228,RO,Data Processing Manager,Rural,1,0.02
+2229,RO,Micro Computer Data Processor,Urban,1,0.02
+2230,RO,Analytical Data Miner,Urban,1,0.02
+2231,RO,Data Processing Systems Project Planner,Rural,1,0.02
+2232,RO,Data Processing Systems Project Planner,Urban,6,0.11
+2233,RO,Data Modeler,Rural,1,0.02
+2234,RO,Data Modeler,Urban,1,0.02
+2235,RO,Business Database Analyst,Urban,2,0.04
+2236,RO,Data Entry Operator,Urban,1,0.02
+2237,RO,Database Architect,Urban,4,0.07
+2238,RO,Data Center Operator,Urban,2,0.04
+2239,RO,SCADA Operator (Supervisory Control and Data Acquisition Operator),Urban,1,0.02
+2240,RO,Data Processing Auditor,Rural,2,0.04
+2241,RO,Data Processing Auditor,Urban,1,0.02
+2242,RO,Data Communications Analyst,Urban,1,0.02
+2243,RO,Oracle Database Administrator (Oracle DBA),Urban,2,0.04
+2244,RO,GPS Field Data Collector (Global Positioning System Field Data Collector),Urban,1,0.02
+2245,RO,Data Warehousing Manager,Urban,3,0.05
+2246,RO,Data Sciences Director,Urban,1,0.02
+2247,RO,Data Architect,Rural,1,0.02
+2248,RO,Data Architect,Urban,4,0.07
+2249,RO,SQL Database Administrator,Rural,1,0.02
+2250,RO,SQL Database Administrator,Urban,3,0.05
+2251,RO,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Rural,2,0.04
+2252,RO,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Urban,3,0.05
+2253,RO,Customer Data Technician,Urban,1,0.02
+2254,RO,Director of Data Operations,Urban,4,0.07
+2255,RO,Data Miner,Urban,3,0.05
+2256,RO,Database Consultant,Urban,7,0.12
+2257,RO,Database Security Expert,Urban,1,0.02
+2258,RO,Data Processing Systems Analyst,Urban,1,0.02
+2259,RO,Databases Computer Consultant,Urban,4,0.07
+2260,RO,Data Security Administrator,Urban,3,0.05
+2261,RO,Data Processor,Rural,1,0.02
+2262,RO,Data Processor,Urban,1,0.02
+2263,RO,Clinical Data Analyst,Urban,1,0.02
+2264,RO,Voice and Data Technician,Urban,1,0.02
+2265,RO,Reference Data Expert,Urban,2,0.04
+2266,RO,Clinical Data Manager,Urban,2,0.04
+2267,RO,Field Traffic Data Technician,Urban,2,0.04
+2268,RO,Computer or Data Processing Systems Consultant,Rural,2,0.04
+2269,RO,Computer or Data Processing Systems Consultant,Urban,4,0.07
+2270,SE,Data Reduction Technician,Urban,1,0.02
+2271,SE,Data Coordinator,Urban,2,0.04
+2272,SE,Data Conversion Operator,Rural,1,0.02
+2273,SE,Database Marketing Analyst,Urban,2,0.04
+2274,SE,Naval Tactical Data System--Combat Information Center Officer,Urban,1,0.02
+2275,SE,Database Security Administrator,Rural,1,0.02
+2276,SE,Database Security Administrator,Urban,2,0.04
+2277,SE,Database Tester,Urban,1,0.02
+2278,SE,Data Administrator,Rural,1,0.02
+2279,SE,Data Modeling Specialist,Rural,1,0.02
+2280,SE,Database Software Technician,Urban,1,0.02
+2281,SE,Crime Data Specialist,Urban,1,0.02
+2282,SE,Head of Information Systems and Data Processing,Urban,1,0.02
+2283,SE,Data Warehousing Engineer,Urban,1,0.02
+2284,SE,Data Warehousing Specialist,Urban,1,0.02
+2285,SE,Geographic Information Systems Data Specialist (GIS Data Specialist),Urban,2,0.04
+2286,SE,Database Development and Administration Project Manager,Rural,1,0.02
+2287,SE,Database Development and Administration Project Manager,Urban,2,0.04
+2288,SE,Data Warehouse Analyst,Urban,1,0.02
+2289,SE,Database Management System Specialist (DBMS Specialist),Rural,2,0.04
+2290,SE,Data Collection Technician,Rural,1,0.02
+2291,SE,Database Modeler,Urban,2,0.04
+2292,SE,Survey Data Technician,Urban,1,0.02
+2293,SE,Data Coder Operator,Urban,2,0.04
+2294,SE,Data Analysis Assistant,Urban,1,0.02
+2295,SE,Database Designer,Urban,2,0.04
+2296,SE,Database Administration Associate,Urban,1,0.02
+2297,SE,Geographic Information Systems Data Manager (GIS Data Manager),Urban,1,0.02
+2298,SE,Database Design Analyst,Rural,1,0.02
+2299,SE,Database Design Analyst,Urban,1,0.02
+2300,SE,Database Specialist,Urban,2,0.04
+2301,SE,Clinical Data Management Manager (CDM Manager),Urban,1,0.02
+2302,SE,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Urban,1,0.02
+2303,SE,Data Management Information Technology Specialist,Urban,1,0.02
+2304,SE,Data Officer,Urban,2,0.04
+2305,SE,Data Typist,Urban,2,0.04
+2306,SE,Data Warehouse Architect,Urban,1,0.02
+2307,SE,Data Warehouse Specialist,Urban,1,0.02
+2308,SE,Data Acquisition Technician,Rural,1,0.02
+2309,SE,Database Coordinator,Urban,2,0.04
+2310,SE,Data Systems Manager,Urban,1,0.02
+2311,SE,Data Warehouse Developer,Urban,1,0.02
+2312,SE,Automatic Data Processing Planner,Urban,4,0.07
+2313,SE,Data Communications Software Consultant,Urban,1,0.02
+2314,SE,Data Scientist,Urban,2,0.04
+2315,SE,Data Entry Representative,Rural,1,0.02
+2316,SE,Data Security Analyst,Urban,1,0.02
+2317,SE,Geographic Information Systems Data Administrator (GIS Data Administrator),Urban,1,0.02
+2318,SE,"Engineer, System Electronic Data Processing (Engineer, System EDP)",Rural,1,0.02
+2319,SE,Automatic Data Processing Planner (ADP Planner),Urban,2,0.04
+2320,SE,Database Manager,Rural,1,0.02
+2321,SE,Database Manager,Urban,1,0.02
+2322,SE,Database Programmer,Urban,1,0.02
+2323,SE,Data Processing Manager,Rural,1,0.02
+2324,SE,Data Processing Manager,Urban,2,0.04
+2325,SE,Database Development Project Manager,Urban,1,0.02
+2326,SE,Data Modeler,Urban,1,0.02
+2327,SE,Data Entry Operator,Urban,1,0.02
+2328,SE,Database Architect,Rural,1,0.02
+2329,SE,Data Center Operator,Urban,1,0.02
+2330,SE,Data Communications Analyst,Rural,1,0.02
+2331,SE,Oracle Database Administrator (Oracle DBA),Urban,1,0.02
+2332,SE,Geographic Information Systems Database Administrator (GIS Database Administrator),Rural,1,0.02
+2333,SE,Geographic Information Systems Database Administrator (GIS Database Administrator),Urban,1,0.02
+2334,SE,SQL Database Administrator,Rural,1,0.02
+2335,SE,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Urban,2,0.04
+2336,SE,Database Consultant,Urban,1,0.02
+2337,SE,Databases Computer Consultant,Urban,1,0.02
+2338,SE,Data Security Administrator,Urban,1,0.02
+2339,SE,Database Developer,Urban,1,0.02
+2340,SE,Data Entry Associate,Urban,1,0.02
+2341,SE,Computer or Data Processing Systems Consultant,Urban,2,0.04
+2342,SE,Data Transcriber,Rural,1,0.02
+2343,SI,Database Administration Manager,Rural,1,0.02
+2344,SI,Database Modeler,Urban,1,0.02
+2345,SI,Clinical Data Associate,Rural,1,0.02
+2346,SI,Data Management Information Technology Specialist,Rural,1,0.02
+2347,SI,Data Warehouse Architect,Rural,1,0.02
+2348,SI,Data Systems Manager,Urban,1,0.02
+2349,SI,Automatic Data Processing Planner,Urban,1,0.02
+2350,SI,Data Communications Software Consultant,Rural,1,0.02
+2351,SI,"Engineer, System Electronic Data Processing (Engineer, System EDP)",Urban,1,0.02
+2352,SI,Data Center Operator,Rural,1,0.02
+2353,SI,Data Processing Auditor,Urban,1,0.02
+2354,SI,Data Warehousing Manager,Rural,1,0.02
+2355,SI,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Rural,1,0.02
+2356,SI,Data Processing Systems Analyst,Rural,1,0.02
+2357,SI,Databases Computer Consultant,Urban,1,0.02
+2358,SI,Data Security Administrator,Urban,1,0.02
+2359,SI,Database Developer,Rural,1,0.02
+2360,SK,Data Conversion Operator,Urban,1,0.02
+2361,SK,Database Security Administrator,Rural,1,0.02
+2362,SK,Flight Data Technician,Urban,1,0.02
+2363,SK,Database Tester,Rural,1,0.02
+2364,SK,Data Administrator,Urban,2,0.04
+2365,SK,Database Engineer,Urban,1,0.02
+2366,SK,Data Management Associate,Urban,2,0.04
+2367,SK,Data Warehousing Engineer,Rural,1,0.02
+2368,SK,Data Warehousing Specialist,Urban,1,0.02
+2369,SK,Data Warehouse Analyst,Urban,1,0.02
+2370,SK,Database Management System Specialist (DBMS Specialist),Rural,1,0.02
+2371,SK,Database Management System Specialist (DBMS Specialist),Urban,1,0.02
+2372,SK,Data Base Design Analyst,Urban,1,0.02
+2373,SK,Data Capture Specialist,Urban,1,0.02
+2374,SK,Data Reviewer,Urban,1,0.02
+2375,SK,Geographic Information Systems Data Manager (GIS Data Manager),Urban,1,0.02
+2376,SK,Database Specialist,Urban,1,0.02
+2377,SK,Databases Software Consultant,Urban,1,0.02
+2378,SK,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Urban,4,0.07
+2379,SK,Data Management Information Technology Specialist,Rural,1,0.02
+2380,SK,Data Officer,Urban,2,0.04
+2381,SK,Data Warehouse Specialist,Urban,1,0.02
+2382,SK,Data Acquisition Technician,Rural,1,0.02
+2383,SK,Data Systems Manager,Urban,1,0.02
+2384,SK,Data Warehouse Developer,Urban,1,0.02
+2385,SK,Automatic Data Processing Planner,Rural,1,0.02
+2386,SK,Automatic Data Processing Planner,Urban,1,0.02
+2387,SK,Data Processing Consultant,Rural,1,0.02
+2388,SK,Data Scientist,Urban,3,0.05
+2389,SK,Data Operations Director,Urban,1,0.02
+2390,SK,Internet Database Specialist,Rural,1,0.02
+2391,SK,Data Security Analyst,Rural,3,0.05
+2392,SK,Geographic Information Systems Data Administrator (GIS Data Administrator),Rural,1,0.02
+2393,SK,Geographic Information Systems Data Administrator (GIS Data Administrator),Urban,2,0.04
+2394,SK,Automatic Data Processing Planner (ADP Planner),Urban,1,0.02
+2395,SK,Database Manager,Urban,3,0.05
+2396,SK,Data Processing Manager,Urban,1,0.02
+2397,SK,Data Processing Systems Project Planner,Rural,2,0.04
+2398,SK,Data Processing Auditor,Urban,3,0.05
+2399,SK,Data Communications Analyst,Urban,1,0.02
+2400,SK,Data Warehousing Manager,Rural,1,0.02
+2401,SK,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Rural,1,0.02
+2402,SK,Database Consultant,Rural,1,0.02
+2403,SK,Data Processing Systems Analyst,Rural,1,0.02
+2404,SK,Databases Computer Consultant,Urban,1,0.02
+2405,SK,Computer or Data Processing Systems Consultant,Rural,1,0.02
+2406,SK,Computer or Data Processing Systems Consultant,Urban,1,0.02
+2407,SK,Data Transcriber,Urban,1,0.02
